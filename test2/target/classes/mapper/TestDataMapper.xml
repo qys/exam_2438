@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.qys.mapper.TestDataMapper">
+
+    <select id="getstateTop5GroupByState" resultType="java.util.Map">
+        select
+            state, count(state) as total
+        from
+            test1_data
+        where
+            model = #{model}
+        GROUP BY state
+        ORDER BY count(state) DESC
+            LIMIT 5;
+    </select>
+</mapper>

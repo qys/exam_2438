@@ -1,0 +1,3657 @@
+"state","city","year","electic vehicle type","count"
+WA,Arlington,2016,BEV,24
+WA,Arlington,2019,BEV,30
+WA,Arlington,2020,BEV,28
+WA,Arlington,2018,BEV,43
+WA,Arlington,2015,BEV,15
+WA,Arlington,2021,BEV,66
+WA,Arlington,2017,BEV,31
+WA,Arlington,2012,PHEV,7
+WA,Arlington,2011,BEV,2
+WA,Arlington,2014,BEV,17
+WA,Arlington,2013,BEV,24
+WA,Arlington,2022,BEV,70
+WA,Seattle,2016,BEV,1102
+WA,Seattle,2019,BEV,2029
+WA,Seattle,2020,PHEV,2140
+WA,Seattle,2018,BEV,2668
+WA,Seattle,2015,PHEV,944
+WA,Seattle,2021,BEV,3500
+WA,Seattle,2017,BEV,1645
+WA,Seattle,2012,PHEV,278
+WA,Seattle,2011,BEV,182
+WA,Seattle,2014,PHEV,597
+WA,Seattle,2013,PHEV,767
+WA,Seattle,2022,PHEV,3710
+WA,Seattle,2023,BEV,48
+WA,Seattle,2008,BEV,8
+WA,Seattle,2010,BEV,6
+WA,Seattle,2000,BEV,2
+WA,Olympia,2016,PHEV,150
+WA,Olympia,2019,BEV,302
+WA,Olympia,2020,PHEV,298
+WA,Olympia,2018,BEV,309
+WA,Olympia,2015,PHEV,124
+WA,Olympia,2021,PHEV,406
+WA,Olympia,2017,BEV,370
+WA,Olympia,2012,PHEV,50
+WA,Olympia,2011,BEV,33
+WA,Olympia,2014,PHEV,106
+WA,Olympia,2013,BEV,151
+WA,Olympia,2022,BEV,417
+WA,Olympia,2023,BEV,6
+MD,Frederick,2019,BEV,1
+MD,Frederick,2014,BEV,1
+WA,Bellevue,2016,PHEV,293
+WA,Bellevue,2019,BEV,512
+WA,Bellevue,2020,BEV,623
+WA,Bellevue,2018,BEV,891
+WA,Bellevue,2015,BEV,230
+WA,Bellevue,2021,BEV,993
+WA,Bellevue,2017,BEV,367
+WA,Bellevue,2012,BEV,62
+WA,Bellevue,2011,BEV,30
+WA,Bellevue,2014,BEV,138
+WA,Bellevue,2013,BEV,155
+WA,Bellevue,2022,BEV,1267
+WA,Bellevue,2023,BEV,13
+WA,Bellevue,2008,BEV,1
+WA,Bellevue,2010,BEV,3
+CA,Buena Park,2016,PHEV,1
+WA,Anacortes,2016,PHEV,32
+WA,Anacortes,2019,BEV,31
+WA,Anacortes,2020,BEV,45
+WA,Anacortes,2018,BEV,59
+WA,Anacortes,2015,BEV,21
+WA,Anacortes,2021,BEV,86
+WA,Anacortes,2017,PHEV,47
+WA,Anacortes,2012,PHEV,12
+WA,Anacortes,2011,PHEV,5
+WA,Anacortes,2014,PHEV,21
+WA,Anacortes,2013,PHEV,20
+WA,Anacortes,2022,BEV,73
+SC,Sumter,2021,BEV,1
+SC,Sumter,2017,PHEV,1
+WA,Spokane,2016,PHEV,93
+WA,Spokane,2019,PHEV,122
+WA,Spokane,2020,PHEV,159
+WA,Spokane,2018,BEV,194
+WA,Spokane,2015,BEV,86
+WA,Spokane,2021,BEV,305
+WA,Spokane,2017,BEV,169
+WA,Spokane,2012,PHEV,34
+WA,Spokane,2011,BEV,24
+WA,Spokane,2014,BEV,53
+WA,Spokane,2013,PHEV,87
+WA,Spokane,2022,BEV,324
+WA,Spokane,2023,BEV,3
+WA,Spokane,2008,BEV,1
+MD,Gaithersburg,2019,BEV,1
+MD,Gaithersburg,2018,PHEV,1
+MD,Gaithersburg,2014,PHEV,1
+NV,Laughlin,2013,PHEV,1
+FL,Lithia,2022,PHEV,1
+WA,Walla Walla,2016,PHEV,14
+WA,Walla Walla,2019,PHEV,14
+WA,Walla Walla,2020,BEV,22
+WA,Walla Walla,2018,BEV,34
+WA,Walla Walla,2015,BEV,8
+WA,Walla Walla,2021,BEV,49
+WA,Walla Walla,2017,BEV,20
+WA,Walla Walla,2012,PHEV,7
+WA,Walla Walla,2011,BEV,1
+WA,Walla Walla,2014,BEV,8
+WA,Walla Walla,2013,BEV,14
+WA,Walla Walla,2022,BEV,53
+WA,Olalla,2016,BEV,8
+WA,Olalla,2019,PHEV,4
+WA,Olalla,2020,BEV,7
+WA,Olalla,2018,BEV,5
+WA,Olalla,2015,BEV,1
+WA,Olalla,2021,PHEV,17
+WA,Olalla,2017,BEV,10
+WA,Olalla,2012,PHEV,2
+WA,Olalla,2014,PHEV,1
+WA,Olalla,2013,PHEV,1
+WA,Olalla,2022,BEV,9
+WA,East Wenatchee,2016,BEV,6
+WA,East Wenatchee,2019,BEV,17
+WA,East Wenatchee,2020,BEV,15
+WA,East Wenatchee,2018,BEV,25
+WA,East Wenatchee,2015,BEV,5
+WA,East Wenatchee,2021,BEV,28
+WA,East Wenatchee,2017,PHEV,14
+WA,East Wenatchee,2012,BEV,3
+WA,East Wenatchee,2011,BEV,2
+WA,East Wenatchee,2014,PHEV,9
+WA,East Wenatchee,2013,PHEV,16
+WA,East Wenatchee,2022,PHEV,28
+PA,Pittsburgh,2018,PHEV,1
+CA,Santa Cruz,2018,BEV,1
+WA,Dayton,2019,BEV,1
+WA,Dayton,2018,BEV,1
+WA,Dayton,2021,BEV,3
+WA,Dayton,2017,BEV,3
+WA,Dayton,2013,BEV,1
+WA,Dayton,2022,BEV,2
+WA,Ocean Shores,2016,PHEV,6
+WA,Ocean Shores,2019,PHEV,2
+WA,Ocean Shores,2020,BEV,5
+WA,Ocean Shores,2018,PHEV,16
+WA,Ocean Shores,2015,BEV,8
+WA,Ocean Shores,2021,BEV,18
+WA,Ocean Shores,2017,PHEV,8
+WA,Ocean Shores,2012,PHEV,4
+WA,Ocean Shores,2011,BEV,1
+WA,Ocean Shores,2014,BEV,3
+WA,Ocean Shores,2013,BEV,7
+WA,Ocean Shores,2022,PHEV,12
+WA,Bellingham,2016,BEV,125
+WA,Bellingham,2019,BEV,195
+WA,Bellingham,2020,BEV,172
+WA,Bellingham,2018,BEV,247
+WA,Bellingham,2015,PHEV,152
+WA,Bellingham,2021,PHEV,265
+WA,Bellingham,2017,BEV,186
+WA,Bellingham,2012,BEV,45
+WA,Bellingham,2011,BEV,23
+WA,Bellingham,2014,BEV,82
+WA,Bellingham,2013,BEV,165
+WA,Bellingham,2022,BEV,261
+WA,Bellingham,2023,BEV,4
+WA,Yakima,2016,BEV,29
+WA,Yakima,2019,BEV,32
+WA,Yakima,2020,PHEV,35
+WA,Yakima,2018,BEV,45
+WA,Yakima,2015,BEV,13
+WA,Yakima,2021,BEV,89
+WA,Yakima,2017,PHEV,39
+WA,Yakima,2012,PHEV,13
+WA,Yakima,2011,BEV,4
+WA,Yakima,2014,PHEV,18
+WA,Yakima,2013,PHEV,15
+WA,Yakima,2022,BEV,66
+WA,Federal Way,2016,BEV,59
+WA,Federal Way,2019,BEV,64
+WA,Federal Way,2020,PHEV,71
+WA,Federal Way,2018,BEV,93
+WA,Federal Way,2015,BEV,34
+WA,Federal Way,2021,BEV,151
+WA,Federal Way,2017,BEV,89
+WA,Federal Way,2012,BEV,19
+WA,Federal Way,2011,BEV,6
+WA,Federal Way,2014,PHEV,34
+WA,Federal Way,2013,PHEV,30
+WA,Federal Way,2022,BEV,163
+WA,Federal Way,2023,PHEV,3
+WA,Federal Way,2010,BEV,1
+WA,Issaquah,2016,BEV,96
+WA,Issaquah,2019,BEV,186
+WA,Issaquah,2020,BEV,194
+WA,Issaquah,2018,BEV,250
+WA,Issaquah,2015,BEV,56
+WA,Issaquah,2021,BEV,324
+WA,Issaquah,2017,PHEV,135
+WA,Issaquah,2012,PHEV,13
+WA,Issaquah,2011,BEV,1
+WA,Issaquah,2014,BEV,33
+WA,Issaquah,2013,BEV,39
+WA,Issaquah,2022,BEV,370
+WA,Issaquah,2023,BEV,3
+WA,Issaquah,2008,BEV,2
+WA,Issaquah,2010,BEV,1
+WA,Shoreline,2016,BEV,78
+WA,Shoreline,2019,BEV,124
+WA,Shoreline,2020,BEV,87
+WA,Shoreline,2018,BEV,166
+WA,Shoreline,2015,BEV,80
+WA,Shoreline,2021,BEV,200
+WA,Shoreline,2017,BEV,103
+WA,Shoreline,2012,BEV,13
+WA,Shoreline,2011,BEV,11
+WA,Shoreline,2014,BEV,50
+WA,Shoreline,2013,BEV,80
+WA,Shoreline,2022,BEV,216
+WA,Shoreline,2023,BEV,3
+WA,Shoreline,2000,BEV,2
+WA,Bremerton,2016,PHEV,55
+WA,Bremerton,2019,BEV,73
+WA,Bremerton,2020,BEV,71
+WA,Bremerton,2018,BEV,98
+WA,Bremerton,2015,BEV,47
+WA,Bremerton,2021,BEV,115
+WA,Bremerton,2017,PHEV,80
+WA,Bremerton,2012,BEV,19
+WA,Bremerton,2011,BEV,13
+WA,Bremerton,2014,PHEV,35
+WA,Bremerton,2013,BEV,45
+WA,Bremerton,2022,BEV,171
+WA,Puyallup,2016,PHEV,53
+WA,Puyallup,2019,BEV,59
+WA,Puyallup,2020,PHEV,57
+WA,Puyallup,2018,BEV,75
+WA,Puyallup,2015,PHEV,30
+WA,Puyallup,2021,BEV,118
+WA,Puyallup,2017,PHEV,61
+WA,Puyallup,2012,PHEV,10
+WA,Puyallup,2011,BEV,4
+WA,Puyallup,2014,PHEV,42
+WA,Puyallup,2013,BEV,37
+WA,Puyallup,2022,BEV,144
+WA,Puyallup,2023,BEV,2
+WA,Kirkland,2016,BEV,184
+WA,Kirkland,2019,BEV,349
+WA,Kirkland,2020,BEV,392
+WA,Kirkland,2018,BEV,522
+WA,Kirkland,2015,BEV,124
+WA,Kirkland,2021,PHEV,632
+WA,Kirkland,2017,BEV,241
+WA,Kirkland,2012,BEV,32
+WA,Kirkland,2011,BEV,22
+WA,Kirkland,2014,BEV,93
+WA,Kirkland,2013,BEV,93
+WA,Kirkland,2022,BEV,697
+WA,Kirkland,2023,BEV,7
+WA,Kirkland,2008,BEV,1
+WA,Kirkland,2010,BEV,2
+WA,Mukilteo,2016,PHEV,29
+WA,Mukilteo,2019,PHEV,37
+WA,Mukilteo,2020,BEV,40
+WA,Mukilteo,2018,PHEV,66
+WA,Mukilteo,2015,BEV,25
+WA,Mukilteo,2021,BEV,92
+WA,Mukilteo,2017,PHEV,44
+WA,Mukilteo,2012,BEV,5
+WA,Mukilteo,2011,BEV,5
+WA,Mukilteo,2014,BEV,13
+WA,Mukilteo,2013,BEV,25
+WA,Mukilteo,2022,BEV,90
+WA,Mukilteo,2023,BEV,2
+WA,Mukilteo,2010,BEV,1
+WA,South Hill,2016,PHEV,31
+WA,South Hill,2019,BEV,38
+WA,South Hill,2020,BEV,26
+WA,South Hill,2018,BEV,34
+WA,South Hill,2015,PHEV,19
+WA,South Hill,2021,BEV,73
+WA,South Hill,2017,PHEV,31
+WA,South Hill,2012,BEV,7
+WA,South Hill,2011,BEV,2
+WA,South Hill,2014,BEV,13
+WA,South Hill,2013,PHEV,13
+WA,South Hill,2022,PHEV,71
+WA,South Hill,2023,BEV,1
+WA,Oak Harbor,2016,PHEV,22
+WA,Oak Harbor,2019,BEV,32
+WA,Oak Harbor,2020,BEV,28
+WA,Oak Harbor,2018,BEV,41
+WA,Oak Harbor,2015,PHEV,15
+WA,Oak Harbor,2021,BEV,57
+WA,Oak Harbor,2017,BEV,37
+WA,Oak Harbor,2012,PHEV,7
+WA,Oak Harbor,2011,BEV,3
+WA,Oak Harbor,2014,PHEV,9
+WA,Oak Harbor,2013,BEV,15
+WA,Oak Harbor,2022,BEV,52
+WA,Tacoma,2016,BEV,149
+WA,Tacoma,2019,BEV,207
+WA,Tacoma,2020,BEV,204
+WA,Tacoma,2018,PHEV,284
+WA,Tacoma,2015,BEV,125
+WA,Tacoma,2021,BEV,397
+WA,Tacoma,2017,BEV,278
+WA,Tacoma,2012,PHEV,45
+WA,Tacoma,2011,PHEV,34
+WA,Tacoma,2014,BEV,104
+WA,Tacoma,2013,BEV,127
+WA,Tacoma,2022,BEV,415
+WA,Tacoma,2023,PHEV,5
+WA,Tacoma,2010,BEV,1
+WA,Vancouver,2016,BEV,235
+WA,Vancouver,2019,PHEV,319
+WA,Vancouver,2020,BEV,379
+WA,Vancouver,2018,BEV,428
+WA,Vancouver,2015,PHEV,187
+WA,Vancouver,2021,BEV,763
+WA,Vancouver,2017,BEV,407
+WA,Vancouver,2012,BEV,90
+WA,Vancouver,2011,BEV,27
+WA,Vancouver,2014,BEV,122
+WA,Vancouver,2013,BEV,209
+WA,Vancouver,2022,BEV,768
+WA,Vancouver,2023,PHEV,6
+WA,Vancouver,2000,BEV,1
+WA,Maple Valley,2016,BEV,52
+WA,Maple Valley,2019,BEV,71
+WA,Maple Valley,2020,BEV,63
+WA,Maple Valley,2018,PHEV,104
+WA,Maple Valley,2015,PHEV,33
+WA,Maple Valley,2021,BEV,139
+WA,Maple Valley,2017,PHEV,69
+WA,Maple Valley,2012,PHEV,5
+WA,Maple Valley,2011,BEV,2
+WA,Maple Valley,2014,BEV,26
+WA,Maple Valley,2013,BEV,33
+WA,Maple Valley,2022,BEV,170
+WA,Maple Valley,2023,BEV,2
+WA,Tumwater,2016,PHEV,24
+WA,Tumwater,2019,BEV,49
+WA,Tumwater,2020,PHEV,36
+WA,Tumwater,2018,PHEV,61
+WA,Tumwater,2015,PHEV,28
+WA,Tumwater,2021,BEV,46
+WA,Tumwater,2017,BEV,70
+WA,Tumwater,2012,PHEV,6
+WA,Tumwater,2011,BEV,4
+WA,Tumwater,2014,PHEV,16
+WA,Tumwater,2013,PHEV,12
+WA,Tumwater,2022,PHEV,67
+WA,Tumwater,2023,BEV,1
+WA,Tumwater,1993,BEV,1
+WA,Port Angeles,2016,BEV,4
+WA,Port Angeles,2019,PHEV,34
+WA,Port Angeles,2020,BEV,27
+WA,Port Angeles,2018,PHEV,40
+WA,Port Angeles,2015,PHEV,11
+WA,Port Angeles,2021,PHEV,54
+WA,Port Angeles,2017,BEV,30
+WA,Port Angeles,2012,PHEV,14
+WA,Port Angeles,2011,BEV,8
+WA,Port Angeles,2014,BEV,14
+WA,Port Angeles,2013,PHEV,21
+WA,Port Angeles,2022,PHEV,32
+WA,North Bend,2016,PHEV,20
+WA,North Bend,2019,BEV,37
+WA,North Bend,2020,BEV,49
+WA,North Bend,2018,BEV,55
+WA,North Bend,2015,BEV,14
+WA,North Bend,2021,BEV,92
+WA,North Bend,2017,PHEV,40
+WA,North Bend,2012,PHEV,1
+WA,North Bend,2011,BEV,1
+WA,North Bend,2014,BEV,13
+WA,North Bend,2013,BEV,10
+WA,North Bend,2022,BEV,106
+WA,North Bend,2023,BEV,2
+WA,North Bend,2010,BEV,1
+WA,Bothell,2016,BEV,166
+WA,Bothell,2019,BEV,318
+WA,Bothell,2020,BEV,344
+WA,Bothell,2018,BEV,438
+WA,Bothell,2015,PHEV,122
+WA,Bothell,2021,BEV,634
+WA,Bothell,2017,PHEV,198
+WA,Bothell,2012,BEV,29
+WA,Bothell,2011,BEV,17
+WA,Bothell,2014,BEV,74
+WA,Bothell,2013,PHEV,79
+WA,Bothell,2022,BEV,719
+WA,Bothell,2023,BEV,8
+WA,Lynnwood,2016,BEV,66
+WA,Lynnwood,2019,BEV,120
+WA,Lynnwood,2020,BEV,133
+WA,Lynnwood,2018,PHEV,159
+WA,Lynnwood,2015,BEV,56
+WA,Lynnwood,2021,BEV,261
+WA,Lynnwood,2017,PHEV,99
+WA,Lynnwood,2012,BEV,21
+WA,Lynnwood,2011,BEV,11
+WA,Lynnwood,2014,BEV,34
+WA,Lynnwood,2013,PHEV,76
+WA,Lynnwood,2022,BEV,330
+WA,Lynnwood,2023,BEV,2
+WA,Lake Stevens,2016,BEV,35
+WA,Lake Stevens,2019,BEV,73
+WA,Lake Stevens,2020,BEV,70
+WA,Lake Stevens,2018,BEV,87
+WA,Lake Stevens,2015,PHEV,35
+WA,Lake Stevens,2021,PHEV,149
+WA,Lake Stevens,2017,BEV,60
+WA,Lake Stevens,2012,BEV,13
+WA,Lake Stevens,2011,PHEV,1
+WA,Lake Stevens,2014,BEV,30
+WA,Lake Stevens,2013,PHEV,26
+WA,Lake Stevens,2022,BEV,166
+WA,Camas,2016,BEV,43
+WA,Camas,2019,BEV,80
+WA,Camas,2020,BEV,93
+WA,Camas,2018,PHEV,121
+WA,Camas,2015,PHEV,45
+WA,Camas,2021,BEV,204
+WA,Camas,2017,PHEV,87
+WA,Camas,2012,PHEV,17
+WA,Camas,2011,BEV,9
+WA,Camas,2014,BEV,18
+WA,Camas,2013,BEV,42
+WA,Camas,2022,BEV,215
+WA,Camas,2023,BEV,3
+WA,Seatac,2016,PHEV,19
+WA,Seatac,2019,BEV,14
+WA,Seatac,2020,BEV,23
+WA,Seatac,2018,BEV,32
+WA,Seatac,2015,BEV,10
+WA,Seatac,2021,BEV,67
+WA,Seatac,2017,BEV,21
+WA,Seatac,2012,PHEV,6
+WA,Seatac,2011,BEV,2
+WA,Seatac,2014,BEV,7
+WA,Seatac,2013,BEV,20
+WA,Seatac,2022,BEV,417
+WA,Seatac,2023,PHEV,1
+WA,Normandy Park,2016,BEV,14
+WA,Normandy Park,2019,BEV,24
+WA,Normandy Park,2020,BEV,15
+WA,Normandy Park,2018,PHEV,27
+WA,Normandy Park,2015,BEV,5
+WA,Normandy Park,2021,BEV,28
+WA,Normandy Park,2017,PHEV,23
+WA,Normandy Park,2012,BEV,1
+WA,Normandy Park,2011,BEV,1
+WA,Normandy Park,2014,PHEV,6
+WA,Normandy Park,2013,BEV,11
+WA,Normandy Park,2022,BEV,37
+WA,Normandy Park,2023,BEV,2
+WA,Newcastle,2016,BEV,25
+WA,Newcastle,2019,BEV,45
+WA,Newcastle,2020,BEV,58
+WA,Newcastle,2018,BEV,91
+WA,Newcastle,2015,BEV,20
+WA,Newcastle,2021,PHEV,102
+WA,Newcastle,2017,PHEV,24
+WA,Newcastle,2012,BEV,6
+WA,Newcastle,2011,BEV,1
+WA,Newcastle,2014,PHEV,16
+WA,Newcastle,2013,BEV,11
+WA,Newcastle,2022,BEV,124
+WA,Newcastle,2023,BEV,1
+WA,Dupont,2016,PHEV,6
+WA,Dupont,2019,BEV,4
+WA,Dupont,2020,BEV,13
+WA,Dupont,2018,BEV,11
+WA,Dupont,2015,PHEV,5
+WA,Dupont,2021,BEV,21
+WA,Dupont,2017,PHEV,13
+WA,Dupont,2012,PHEV,2
+WA,Dupont,2011,BEV,1
+WA,Dupont,2014,PHEV,4
+WA,Dupont,2013,PHEV,6
+WA,Dupont,2022,BEV,28
+WA,Lake Forest Park,2016,BEV,29
+WA,Lake Forest Park,2019,BEV,47
+WA,Lake Forest Park,2020,BEV,50
+WA,Lake Forest Park,2018,PHEV,62
+WA,Lake Forest Park,2015,PHEV,18
+WA,Lake Forest Park,2021,BEV,83
+WA,Lake Forest Park,2017,PHEV,32
+WA,Lake Forest Park,2012,BEV,7
+WA,Lake Forest Park,2011,BEV,4
+WA,Lake Forest Park,2014,BEV,13
+WA,Lake Forest Park,2013,PHEV,22
+WA,Lake Forest Park,2022,BEV,73
+WA,Snoqualmie,2016,BEV,16
+WA,Snoqualmie,2019,BEV,53
+WA,Snoqualmie,2020,BEV,56
+WA,Snoqualmie,2018,BEV,79
+WA,Snoqualmie,2015,BEV,17
+WA,Snoqualmie,2021,BEV,94
+WA,Snoqualmie,2017,PHEV,39
+WA,Snoqualmie,2012,PHEV,1
+WA,Snoqualmie,2014,PHEV,12
+WA,Snoqualmie,2013,PHEV,25
+WA,Snoqualmie,2022,BEV,114
+WA,Snoqualmie,2023,BEV,3
+WA,Mercer Island,2016,BEV,102
+WA,Mercer Island,2019,BEV,159
+WA,Mercer Island,2020,BEV,189
+WA,Mercer Island,2018,BEV,265
+WA,Mercer Island,2015,BEV,69
+WA,Mercer Island,2021,PHEV,281
+WA,Mercer Island,2017,BEV,97
+WA,Mercer Island,2012,BEV,10
+WA,Mercer Island,2011,BEV,10
+WA,Mercer Island,2014,PHEV,36
+WA,Mercer Island,2013,BEV,49
+WA,Mercer Island,2022,BEV,282
+WA,Mercer Island,2023,BEV,1
+WA,Kent,2016,PHEV,88
+WA,Kent,2019,PHEV,174
+WA,Kent,2020,BEV,128
+WA,Kent,2018,PHEV,159
+WA,Kent,2015,BEV,57
+WA,Kent,2021,BEV,261
+WA,Kent,2017,PHEV,149
+WA,Kent,2012,BEV,24
+WA,Kent,2011,PHEV,16
+WA,Kent,2014,PHEV,58
+WA,Kent,2013,BEV,61
+WA,Kent,2022,BEV,377
+WA,Richland,2016,PHEV,31
+WA,Richland,2019,PHEV,48
+WA,Richland,2020,BEV,75
+WA,Richland,2018,BEV,73
+WA,Richland,2015,BEV,22
+WA,Richland,2021,BEV,103
+WA,Richland,2017,PHEV,46
+WA,Richland,2012,BEV,20
+WA,Richland,2011,BEV,9
+WA,Richland,2014,PHEV,28
+WA,Richland,2013,BEV,18
+WA,Richland,2022,BEV,102
+WA,Richland,2023,BEV,2
+WA,Sammamish,2016,BEV,146
+WA,Sammamish,2019,BEV,342
+WA,Sammamish,2020,BEV,337
+WA,Sammamish,2018,BEV,494
+WA,Sammamish,2015,BEV,86
+WA,Sammamish,2021,BEV,596
+WA,Sammamish,2017,BEV,173
+WA,Sammamish,2012,BEV,17
+WA,Sammamish,2011,PHEV,7
+WA,Sammamish,2014,BEV,76
+WA,Sammamish,2013,BEV,94
+WA,Sammamish,2022,BEV,696
+WA,Sammamish,2023,BEV,3
+WA,Sammamish,2002,BEV,1
+WA,Bonney Lake,2016,BEV,19
+WA,Bonney Lake,2019,BEV,61
+WA,Bonney Lake,2020,BEV,71
+WA,Bonney Lake,2018,PHEV,55
+WA,Bonney Lake,2015,BEV,21
+WA,Bonney Lake,2021,BEV,109
+WA,Bonney Lake,2017,PHEV,49
+WA,Bonney Lake,2012,BEV,5
+WA,Bonney Lake,2014,PHEV,19
+WA,Bonney Lake,2013,BEV,13
+WA,Bonney Lake,2022,BEV,141
+WA,Gig Harbor,2016,PHEV,69
+WA,Gig Harbor,2019,BEV,131
+WA,Gig Harbor,2020,BEV,139
+WA,Gig Harbor,2018,PHEV,145
+WA,Gig Harbor,2015,BEV,48
+WA,Gig Harbor,2021,BEV,239
+WA,Gig Harbor,2017,PHEV,114
+WA,Gig Harbor,2012,PHEV,17
+WA,Gig Harbor,2011,BEV,3
+WA,Gig Harbor,2014,BEV,39
+WA,Gig Harbor,2013,PHEV,47
+WA,Gig Harbor,2022,BEV,229
+WA,Gig Harbor,2023,BEV,2
+WA,Gig Harbor,2008,BEV,1
+WA,Wenatchee,2016,BEV,12
+WA,Wenatchee,2019,BEV,25
+WA,Wenatchee,2020,BEV,27
+WA,Wenatchee,2018,BEV,32
+WA,Wenatchee,2015,BEV,20
+WA,Wenatchee,2021,BEV,44
+WA,Wenatchee,2017,BEV,29
+WA,Wenatchee,2012,PHEV,7
+WA,Wenatchee,2014,PHEV,6
+WA,Wenatchee,2013,BEV,9
+WA,Wenatchee,2022,BEV,45
+WA,Bainbridge Island,2016,PHEV,86
+WA,Bainbridge Island,2019,BEV,113
+WA,Bainbridge Island,2020,BEV,128
+WA,Bainbridge Island,2018,BEV,164
+WA,Bainbridge Island,2015,PHEV,48
+WA,Bainbridge Island,2021,PHEV,227
+WA,Bainbridge Island,2017,PHEV,109
+WA,Bainbridge Island,2012,BEV,24
+WA,Bainbridge Island,2011,BEV,16
+WA,Bainbridge Island,2014,PHEV,48
+WA,Bainbridge Island,2013,BEV,52
+WA,Bainbridge Island,2022,PHEV,189
+WA,Bainbridge Island,2023,BEV,4
+WA,Bainbridge Island,2008,BEV,1
+WA,Bainbridge Island,2010,BEV,1
+WA,La Conner,2016,PHEV,3
+WA,La Conner,2019,BEV,5
+WA,La Conner,2020,BEV,8
+WA,La Conner,2018,PHEV,9
+WA,La Conner,2015,BEV,2
+WA,La Conner,2021,BEV,11
+WA,La Conner,2017,BEV,4
+WA,La Conner,2012,PHEV,1
+WA,La Conner,2013,BEV,6
+WA,La Conner,2022,BEV,11
+WA,Sedro Woolley,2016,BEV,2
+WA,Sedro Woolley,2019,BEV,3
+WA,Sedro Woolley,2020,BEV,3
+WA,Sedro Woolley,2018,BEV,4
+WA,Sedro Woolley,2015,BEV,1
+WA,Sedro Woolley,2021,BEV,8
+WA,Sedro Woolley,2017,PHEV,7
+WA,Sedro Woolley,2012,BEV,2
+WA,Sedro Woolley,2011,PHEV,1
+WA,Sedro Woolley,2022,BEV,6
+WA,Edmonds,2016,PHEV,83
+WA,Edmonds,2019,PHEV,133
+WA,Edmonds,2020,BEV,103
+WA,Edmonds,2018,BEV,161
+WA,Edmonds,2015,BEV,65
+WA,Edmonds,2021,BEV,199
+WA,Edmonds,2017,BEV,96
+WA,Edmonds,2012,PHEV,15
+WA,Edmonds,2011,BEV,9
+WA,Edmonds,2014,BEV,44
+WA,Edmonds,2013,PHEV,91
+WA,Edmonds,2022,BEV,257
+WA,Edmonds,2023,BEV,3
+WA,Edmonds,2010,BEV,1
+WA,Edmonds,2000,BEV,1
+WA,Ronald,2016,BEV,1
+WA,Ronald,2019,BEV,2
+WA,Ronald,2020,BEV,3
+WA,Ronald,2018,BEV,4
+WA,Ronald,2015,BEV,2
+WA,Ronald,2021,PHEV,6
+WA,Ronald,2017,BEV,2
+WA,Ronald,2012,PHEV,1
+WA,Ronald,2014,BEV,1
+WA,Ronald,2013,BEV,2
+WA,Ronald,2022,PHEV,1
+WA,White Salmon,2016,BEV,4
+WA,White Salmon,2019,BEV,8
+WA,White Salmon,2020,BEV,9
+WA,White Salmon,2018,BEV,7
+WA,White Salmon,2015,BEV,2
+WA,White Salmon,2021,BEV,17
+WA,White Salmon,2017,PHEV,5
+WA,White Salmon,2011,BEV,3
+WA,White Salmon,2014,BEV,1
+WA,White Salmon,2013,BEV,5
+WA,White Salmon,2022,PHEV,16
+WA,Auburn,2016,BEV,73
+WA,Auburn,2019,BEV,92
+WA,Auburn,2020,BEV,90
+WA,Auburn,2018,PHEV,116
+WA,Auburn,2015,PHEV,59
+WA,Auburn,2021,BEV,215
+WA,Auburn,2017,BEV,118
+WA,Auburn,2012,PHEV,23
+WA,Auburn,2011,BEV,7
+WA,Auburn,2014,PHEV,41
+WA,Auburn,2013,BEV,52
+WA,Auburn,2022,BEV,229
+WA,Auburn,2023,PHEV,3
+WA,Malaga,2016,BEV,1
+WA,Malaga,2019,BEV,3
+WA,Malaga,2020,BEV,3
+WA,Malaga,2018,BEV,2
+WA,Malaga,2021,BEV,2
+WA,Malaga,2017,BEV,1
+WA,Malaga,2013,BEV,3
+WA,Malaga,2022,PHEV,3
+WA,Burlington,2016,BEV,5
+WA,Burlington,2019,BEV,9
+WA,Burlington,2020,BEV,5
+WA,Burlington,2018,BEV,9
+WA,Burlington,2015,PHEV,5
+WA,Burlington,2021,PHEV,23
+WA,Burlington,2017,PHEV,14
+WA,Burlington,2012,PHEV,1
+WA,Burlington,2014,BEV,5
+WA,Burlington,2013,PHEV,7
+WA,Burlington,2022,BEV,20
+WA,University Place,2016,PHEV,19
+WA,University Place,2019,BEV,44
+WA,University Place,2020,BEV,43
+WA,University Place,2018,BEV,63
+WA,University Place,2015,BEV,21
+WA,University Place,2021,BEV,71
+WA,University Place,2017,BEV,47
+WA,University Place,2012,BEV,6
+WA,University Place,2011,BEV,2
+WA,University Place,2014,PHEV,25
+WA,University Place,2013,BEV,19
+WA,University Place,2022,BEV,90
+WA,University Place,2023,BEV,1
+WA,Longview,2016,PHEV,13
+WA,Longview,2019,BEV,14
+WA,Longview,2020,BEV,23
+WA,Longview,2018,PHEV,27
+WA,Longview,2015,BEV,14
+WA,Longview,2021,BEV,41
+WA,Longview,2017,PHEV,24
+WA,Longview,2012,BEV,8
+WA,Longview,2011,BEV,1
+WA,Longview,2014,BEV,4
+WA,Longview,2013,PHEV,14
+WA,Longview,2022,BEV,39
+WA,Chehalis,2016,PHEV,7
+WA,Chehalis,2019,BEV,13
+WA,Chehalis,2020,BEV,14
+WA,Chehalis,2018,BEV,21
+WA,Chehalis,2015,PHEV,13
+WA,Chehalis,2021,BEV,22
+WA,Chehalis,2017,PHEV,18
+WA,Chehalis,2012,BEV,7
+WA,Chehalis,2011,BEV,2
+WA,Chehalis,2014,PHEV,5
+WA,Chehalis,2013,PHEV,9
+WA,Chehalis,2022,BEV,17
+WA,Kenmore,2016,BEV,38
+WA,Kenmore,2019,BEV,81
+WA,Kenmore,2020,BEV,68
+WA,Kenmore,2018,BEV,97
+WA,Kenmore,2015,BEV,31
+WA,Kenmore,2021,BEV,116
+WA,Kenmore,2017,PHEV,49
+WA,Kenmore,2012,PHEV,9
+WA,Kenmore,2011,BEV,6
+WA,Kenmore,2014,BEV,17
+WA,Kenmore,2013,BEV,26
+WA,Kenmore,2022,PHEV,114
+WA,Kenmore,2023,BEV,1
+WA,Camano Island,2016,PHEV,16
+WA,Camano Island,2019,PHEV,35
+WA,Camano Island,2020,BEV,41
+WA,Camano Island,2018,BEV,38
+WA,Camano Island,2015,BEV,16
+WA,Camano Island,2021,BEV,58
+WA,Camano Island,2017,BEV,30
+WA,Camano Island,2012,PHEV,7
+WA,Camano Island,2011,BEV,1
+WA,Camano Island,2014,PHEV,16
+WA,Camano Island,2013,PHEV,11
+WA,Camano Island,2022,PHEV,59
+WA,Snohomish,2016,BEV,60
+WA,Snohomish,2019,BEV,132
+WA,Snohomish,2020,BEV,140
+WA,Snohomish,2018,PHEV,162
+WA,Snohomish,2015,BEV,66
+WA,Snohomish,2021,PHEV,213
+WA,Snohomish,2017,PHEV,104
+WA,Snohomish,2012,PHEV,17
+WA,Snohomish,2011,BEV,12
+WA,Snohomish,2014,PHEV,52
+WA,Snohomish,2013,PHEV,62
+WA,Snohomish,2022,BEV,262
+WA,Snohomish,2023,BEV,3
+WA,Redmond,2016,BEV,185
+WA,Redmond,2019,BEV,436
+WA,Redmond,2020,BEV,445
+WA,Redmond,2018,BEV,622
+WA,Redmond,2015,BEV,146
+WA,Redmond,2021,PHEV,717
+WA,Redmond,2017,PHEV,269
+WA,Redmond,2012,PHEV,22
+WA,Redmond,2011,BEV,17
+WA,Redmond,2014,BEV,102
+WA,Redmond,2013,BEV,116
+WA,Redmond,2022,PHEV,856
+WA,Redmond,2023,BEV,8
+WA,Redmond,2008,BEV,3
+WA,Redmond,2010,BEV,1
+WA,Redmond,1999,BEV,1
+WA,Orting,2016,BEV,5
+WA,Orting,2019,BEV,8
+WA,Orting,2020,BEV,17
+WA,Orting,2018,PHEV,10
+WA,Orting,2015,BEV,7
+WA,Orting,2021,BEV,18
+WA,Orting,2017,PHEV,10
+WA,Orting,2012,BEV,1
+WA,Orting,2014,BEV,1
+WA,Orting,2013,BEV,3
+WA,Orting,2022,PHEV,19
+WA,Everett,2016,BEV,94
+WA,Everett,2019,BEV,124
+WA,Everett,2020,BEV,157
+WA,Everett,2018,BEV,159
+WA,Everett,2015,PHEV,71
+WA,Everett,2021,BEV,225
+WA,Everett,2017,BEV,146
+WA,Everett,2012,PHEV,30
+WA,Everett,2011,BEV,23
+WA,Everett,2014,BEV,73
+WA,Everett,2013,BEV,75
+WA,Everett,2022,BEV,267
+WA,Everett,2023,BEV,3
+WA,Lacey,2016,BEV,38
+WA,Lacey,2019,PHEV,58
+WA,Lacey,2020,BEV,44
+WA,Lacey,2018,BEV,77
+WA,Lacey,2015,PHEV,30
+WA,Lacey,2021,BEV,104
+WA,Lacey,2017,PHEV,60
+WA,Lacey,2012,PHEV,3
+WA,Lacey,2011,BEV,10
+WA,Lacey,2014,PHEV,28
+WA,Lacey,2013,BEV,17
+WA,Lacey,2022,BEV,102
+WA,Lacey,2023,BEV,1
+WA,Marysville,2016,BEV,47
+WA,Marysville,2019,BEV,69
+WA,Marysville,2020,BEV,58
+WA,Marysville,2018,PHEV,67
+WA,Marysville,2015,BEV,26
+WA,Marysville,2021,BEV,133
+WA,Marysville,2017,BEV,71
+WA,Marysville,2012,PHEV,14
+WA,Marysville,2011,BEV,2
+WA,Marysville,2014,BEV,37
+WA,Marysville,2013,PHEV,29
+WA,Marysville,2022,BEV,127
+WA,Marysville,2023,PHEV,1
+WA,Marysville,1997,BEV,1
+WA,Woodinville,2016,BEV,92
+WA,Woodinville,2019,BEV,163
+WA,Woodinville,2020,BEV,167
+WA,Woodinville,2018,BEV,229
+WA,Woodinville,2015,BEV,67
+WA,Woodinville,2021,PHEV,256
+WA,Woodinville,2017,BEV,127
+WA,Woodinville,2012,BEV,16
+WA,Woodinville,2011,BEV,9
+WA,Woodinville,2014,BEV,49
+WA,Woodinville,2013,BEV,69
+WA,Woodinville,2022,BEV,294
+WA,Woodinville,2023,BEV,4
+WA,Vashon,2016,BEV,35
+WA,Vashon,2019,BEV,41
+WA,Vashon,2020,BEV,53
+WA,Vashon,2018,BEV,68
+WA,Vashon,2015,PHEV,38
+WA,Vashon,2021,BEV,62
+WA,Vashon,2017,BEV,55
+WA,Vashon,2012,PHEV,9
+WA,Vashon,2011,BEV,4
+WA,Vashon,2014,BEV,26
+WA,Vashon,2013,BEV,33
+WA,Vashon,2022,BEV,45
+WA,Vashon,2023,BEV,2
+WA,Hoquiam,2016,PHEV,2
+WA,Hoquiam,2019,BEV,4
+WA,Hoquiam,2020,BEV,4
+WA,Hoquiam,2018,BEV,2
+WA,Hoquiam,2015,BEV,11
+WA,Hoquiam,2021,BEV,6
+WA,Hoquiam,2017,BEV,5
+WA,Hoquiam,2012,BEV,1
+WA,Hoquiam,2014,PHEV,3
+WA,Hoquiam,2013,PHEV,2
+WA,Hoquiam,2022,BEV,3
+WA,Ridgefield,2016,PHEV,25
+WA,Ridgefield,2019,BEV,49
+WA,Ridgefield,2020,BEV,66
+WA,Ridgefield,2018,PHEV,62
+WA,Ridgefield,2015,BEV,20
+WA,Ridgefield,2021,BEV,116
+WA,Ridgefield,2017,PHEV,42
+WA,Ridgefield,2012,BEV,7
+WA,Ridgefield,2011,BEV,3
+WA,Ridgefield,2014,PHEV,12
+WA,Ridgefield,2013,BEV,18
+WA,Ridgefield,2022,BEV,119
+WA,Marblemount,2020,PHEV,1
+WA,Marblemount,2021,PHEV,1
+WA,Marblemount,2017,BEV,1
+WA,Belfair,2016,BEV,16
+WA,Belfair,2019,BEV,8
+WA,Belfair,2020,PHEV,13
+WA,Belfair,2018,PHEV,7
+WA,Belfair,2015,BEV,5
+WA,Belfair,2021,BEV,11
+WA,Belfair,2017,PHEV,21
+WA,Belfair,2012,PHEV,2
+WA,Belfair,2014,PHEV,6
+WA,Belfair,2013,PHEV,4
+WA,Belfair,2022,BEV,13
+WA,Leavenworth,2016,BEV,10
+WA,Leavenworth,2019,BEV,12
+WA,Leavenworth,2020,BEV,16
+WA,Leavenworth,2018,BEV,23
+WA,Leavenworth,2015,BEV,13
+WA,Leavenworth,2021,BEV,21
+WA,Leavenworth,2017,BEV,21
+WA,Leavenworth,2012,PHEV,2
+WA,Leavenworth,2014,PHEV,3
+WA,Leavenworth,2013,PHEV,6
+WA,Leavenworth,2022,BEV,16
+WA,Milton,2019,BEV,5
+WA,Milton,2020,BEV,3
+WA,Milton,2018,BEV,8
+WA,Milton,2021,PHEV,11
+WA,Milton,2017,PHEV,5
+WA,Milton,2012,BEV,2
+WA,Milton,2014,BEV,2
+WA,Milton,2013,PHEV,2
+WA,Milton,2022,BEV,11
+WA,Milton,2023,BEV,1
+WA,Greenacres,2016,BEV,8
+WA,Greenacres,2019,BEV,5
+WA,Greenacres,2020,BEV,5
+WA,Greenacres,2018,PHEV,10
+WA,Greenacres,2015,BEV,4
+WA,Greenacres,2021,PHEV,23
+WA,Greenacres,2017,BEV,5
+WA,Greenacres,2011,BEV,1
+WA,Greenacres,2014,PHEV,2
+WA,Greenacres,2013,PHEV,1
+WA,Greenacres,2022,BEV,18
+WA,Buckley,2016,BEV,7
+WA,Buckley,2019,BEV,16
+WA,Buckley,2020,BEV,8
+WA,Buckley,2018,PHEV,16
+WA,Buckley,2015,PHEV,10
+WA,Buckley,2021,BEV,30
+WA,Buckley,2017,BEV,13
+WA,Buckley,2012,BEV,3
+WA,Buckley,2014,PHEV,5
+WA,Buckley,2013,PHEV,6
+WA,Buckley,2022,PHEV,30
+WA,Port Orchard,2016,PHEV,34
+WA,Port Orchard,2019,BEV,67
+WA,Port Orchard,2020,PHEV,58
+WA,Port Orchard,2018,BEV,77
+WA,Port Orchard,2015,BEV,37
+WA,Port Orchard,2021,BEV,102
+WA,Port Orchard,2017,PHEV,85
+WA,Port Orchard,2012,PHEV,13
+WA,Port Orchard,2011,BEV,2
+WA,Port Orchard,2014,PHEV,24
+WA,Port Orchard,2013,BEV,39
+WA,Port Orchard,2022,PHEV,127
+WA,Port Orchard,2023,BEV,2
+WA,Port Orchard,2008,BEV,1
+WA,Ephrata,2016,PHEV,2
+WA,Ephrata,2020,PHEV,3
+WA,Ephrata,2018,PHEV,3
+WA,Ephrata,2015,PHEV,1
+WA,Ephrata,2021,BEV,7
+WA,Ephrata,2017,BEV,2
+WA,Ephrata,2012,PHEV,1
+WA,Ephrata,2014,BEV,4
+WA,Ephrata,2013,BEV,1
+WA,Ephrata,2022,BEV,6
+WA,Tukwila,2016,PHEV,21
+WA,Tukwila,2019,BEV,24
+WA,Tukwila,2020,BEV,20
+WA,Tukwila,2018,PHEV,26
+WA,Tukwila,2015,BEV,15
+WA,Tukwila,2021,BEV,29
+WA,Tukwila,2017,BEV,21
+WA,Tukwila,2012,PHEV,7
+WA,Tukwila,2014,PHEV,7
+WA,Tukwila,2013,PHEV,16
+WA,Tukwila,2022,BEV,118
+WA,Renton,2016,PHEV,126
+WA,Renton,2019,BEV,221
+WA,Renton,2020,BEV,271
+WA,Renton,2018,BEV,335
+WA,Renton,2015,BEV,80
+WA,Renton,2021,BEV,591
+WA,Renton,2017,BEV,200
+WA,Renton,2012,BEV,30
+WA,Renton,2011,BEV,9
+WA,Renton,2014,BEV,89
+WA,Renton,2013,BEV,85
+WA,Renton,2022,BEV,633
+WA,Renton,2023,PHEV,4
+WA,Nine Mile Falls,2016,PHEV,7
+WA,Nine Mile Falls,2019,BEV,8
+WA,Nine Mile Falls,2020,BEV,3
+WA,Nine Mile Falls,2018,PHEV,10
+WA,Nine Mile Falls,2015,BEV,5
+WA,Nine Mile Falls,2021,BEV,9
+WA,Nine Mile Falls,2017,BEV,10
+WA,Nine Mile Falls,2012,BEV,1
+WA,Nine Mile Falls,2011,BEV,1
+WA,Nine Mile Falls,2013,BEV,3
+WA,Nine Mile Falls,2022,BEV,14
+WA,Clinton,2016,BEV,12
+WA,Clinton,2019,BEV,16
+WA,Clinton,2020,BEV,18
+WA,Clinton,2018,BEV,20
+WA,Clinton,2015,PHEV,7
+WA,Clinton,2021,PHEV,27
+WA,Clinton,2017,PHEV,16
+WA,Clinton,2012,PHEV,3
+WA,Clinton,2014,PHEV,4
+WA,Clinton,2013,PHEV,14
+WA,Clinton,2022,BEV,19
+WA,Cheney,2016,PHEV,6
+WA,Cheney,2019,BEV,19
+WA,Cheney,2020,BEV,10
+WA,Cheney,2018,BEV,12
+WA,Cheney,2015,PHEV,5
+WA,Cheney,2021,BEV,22
+WA,Cheney,2017,BEV,9
+WA,Cheney,2014,PHEV,6
+WA,Cheney,2013,BEV,4
+WA,Cheney,2022,BEV,19
+WA,Cheney,2023,BEV,1
+WA,Brier,2016,PHEV,7
+WA,Brier,2019,BEV,16
+WA,Brier,2020,BEV,18
+WA,Brier,2018,PHEV,13
+WA,Brier,2015,BEV,9
+WA,Brier,2021,PHEV,22
+WA,Brier,2017,PHEV,12
+WA,Brier,2012,PHEV,4
+WA,Brier,2011,BEV,2
+WA,Brier,2014,BEV,10
+WA,Brier,2013,BEV,10
+WA,Brier,2022,BEV,27
+WA,Brier,2008,BEV,1
+WA,Enumclaw,2016,PHEV,12
+WA,Enumclaw,2019,BEV,24
+WA,Enumclaw,2020,BEV,17
+WA,Enumclaw,2018,PHEV,24
+WA,Enumclaw,2015,BEV,10
+WA,Enumclaw,2021,BEV,36
+WA,Enumclaw,2017,PHEV,24
+WA,Enumclaw,2012,PHEV,4
+WA,Enumclaw,2011,BEV,1
+WA,Enumclaw,2014,PHEV,11
+WA,Enumclaw,2013,PHEV,11
+WA,Enumclaw,2022,BEV,41
+WA,Pasco,2016,PHEV,21
+WA,Pasco,2019,PHEV,26
+WA,Pasco,2020,BEV,32
+WA,Pasco,2018,BEV,47
+WA,Pasco,2015,BEV,9
+WA,Pasco,2021,PHEV,66
+WA,Pasco,2017,PHEV,29
+WA,Pasco,2012,PHEV,6
+WA,Pasco,2011,BEV,2
+WA,Pasco,2014,BEV,16
+WA,Pasco,2013,PHEV,23
+WA,Pasco,2022,BEV,73
+WA,Pasco,2023,PHEV,1
+WA,Moses Lake,2016,PHEV,14
+WA,Moses Lake,2019,PHEV,14
+WA,Moses Lake,2020,BEV,19
+WA,Moses Lake,2018,BEV,20
+WA,Moses Lake,2015,BEV,11
+WA,Moses Lake,2021,BEV,34
+WA,Moses Lake,2017,BEV,13
+WA,Moses Lake,2012,PHEV,6
+WA,Moses Lake,2011,PHEV,4
+WA,Moses Lake,2014,PHEV,10
+WA,Moses Lake,2013,BEV,12
+WA,Moses Lake,2022,BEV,26
+WA,Moses Lake,2023,BEV,1
+WA,Granite Falls,2016,BEV,3
+WA,Granite Falls,2019,BEV,6
+WA,Granite Falls,2020,BEV,6
+WA,Granite Falls,2018,PHEV,14
+WA,Granite Falls,2015,PHEV,4
+WA,Granite Falls,2021,BEV,17
+WA,Granite Falls,2017,PHEV,7
+WA,Granite Falls,2011,BEV,1
+WA,Granite Falls,2014,PHEV,2
+WA,Granite Falls,2013,BEV,7
+WA,Granite Falls,2022,BEV,21
+WA,Brush Prairie,2016,BEV,7
+WA,Brush Prairie,2019,BEV,24
+WA,Brush Prairie,2020,PHEV,19
+WA,Brush Prairie,2018,BEV,25
+WA,Brush Prairie,2015,PHEV,6
+WA,Brush Prairie,2021,BEV,35
+WA,Brush Prairie,2017,BEV,14
+WA,Brush Prairie,2012,BEV,5
+WA,Brush Prairie,2011,BEV,4
+WA,Brush Prairie,2014,BEV,8
+WA,Brush Prairie,2013,BEV,3
+WA,Brush Prairie,2022,PHEV,42
+WA,Brush Prairie,2010,BEV,2
+WA,Port Townsend,2016,BEV,36
+WA,Port Townsend,2019,BEV,48
+WA,Port Townsend,2020,PHEV,35
+WA,Port Townsend,2018,BEV,60
+WA,Port Townsend,2015,BEV,29
+WA,Port Townsend,2021,BEV,48
+WA,Port Townsend,2017,BEV,61
+WA,Port Townsend,2012,PHEV,14
+WA,Port Townsend,2011,BEV,10
+WA,Port Townsend,2014,PHEV,15
+WA,Port Townsend,2013,PHEV,41
+WA,Port Townsend,2022,BEV,56
+WA,Mount Vernon,2016,PHEV,24
+WA,Mount Vernon,2019,PHEV,37
+WA,Mount Vernon,2020,BEV,39
+WA,Mount Vernon,2018,PHEV,46
+WA,Mount Vernon,2015,BEV,23
+WA,Mount Vernon,2021,PHEV,72
+WA,Mount Vernon,2017,PHEV,52
+WA,Mount Vernon,2012,BEV,9
+WA,Mount Vernon,2011,BEV,7
+WA,Mount Vernon,2014,BEV,17
+WA,Mount Vernon,2013,PHEV,35
+WA,Mount Vernon,2022,BEV,78
+WA,Mount Vernon,1999,BEV,1
+WA,Kingston,2016,PHEV,9
+WA,Kingston,2019,BEV,18
+WA,Kingston,2020,BEV,19
+WA,Kingston,2018,BEV,21
+WA,Kingston,2015,BEV,9
+WA,Kingston,2021,BEV,31
+WA,Kingston,2017,PHEV,25
+WA,Kingston,2012,BEV,6
+WA,Kingston,2011,BEV,2
+WA,Kingston,2014,PHEV,7
+WA,Kingston,2013,PHEV,12
+WA,Kingston,2022,BEV,19
+WA,Kingston,2023,BEV,1
+WA,Kingston,2008,BEV,1
+WA,Burien,2016,BEV,36
+WA,Burien,2019,BEV,53
+WA,Burien,2020,BEV,55
+WA,Burien,2018,BEV,72
+WA,Burien,2015,BEV,35
+WA,Burien,2021,BEV,63
+WA,Burien,2017,PHEV,55
+WA,Burien,2012,BEV,8
+WA,Burien,2011,BEV,6
+WA,Burien,2014,PHEV,21
+WA,Burien,2013,PHEV,33
+WA,Burien,2022,BEV,90
+WA,Burien,2008,BEV,1
+WA,Burien,2010,BEV,2
+WA,Nordland,2016,BEV,3
+WA,Nordland,2019,BEV,4
+WA,Nordland,2020,BEV,4
+WA,Nordland,2018,BEV,7
+WA,Nordland,2015,BEV,6
+WA,Nordland,2021,BEV,2
+WA,Nordland,2017,BEV,2
+WA,Nordland,2012,BEV,3
+WA,Nordland,2011,BEV,1
+WA,Nordland,2013,BEV,2
+WA,Nordland,2022,BEV,3
+WA,Friday Harbor,2016,BEV,25
+WA,Friday Harbor,2019,BEV,27
+WA,Friday Harbor,2020,BEV,32
+WA,Friday Harbor,2018,BEV,33
+WA,Friday Harbor,2015,BEV,34
+WA,Friday Harbor,2021,BEV,25
+WA,Friday Harbor,2017,BEV,37
+WA,Friday Harbor,2012,BEV,10
+WA,Friday Harbor,2011,BEV,5
+WA,Friday Harbor,2014,BEV,23
+WA,Friday Harbor,2013,BEV,26
+WA,Friday Harbor,2022,BEV,40
+WA,Friday Harbor,2023,BEV,1
+WA,Friday Harbor,2008,BEV,1
+WA,Friday Harbor,2000,BEV,1
+WA,Ellensburg,2016,PHEV,10
+WA,Ellensburg,2019,BEV,21
+WA,Ellensburg,2020,BEV,14
+WA,Ellensburg,2018,BEV,22
+WA,Ellensburg,2015,BEV,9
+WA,Ellensburg,2021,BEV,28
+WA,Ellensburg,2017,BEV,21
+WA,Ellensburg,2012,PHEV,2
+WA,Ellensburg,2011,BEV,2
+WA,Ellensburg,2014,BEV,5
+WA,Ellensburg,2013,PHEV,6
+WA,Ellensburg,2022,BEV,39
+WA,Ellensburg,2023,BEV,1
+WA,Cle Elum,2016,BEV,7
+WA,Cle Elum,2019,BEV,11
+WA,Cle Elum,2020,PHEV,15
+WA,Cle Elum,2018,BEV,19
+WA,Cle Elum,2015,BEV,2
+WA,Cle Elum,2021,BEV,30
+WA,Cle Elum,2017,PHEV,13
+WA,Cle Elum,2012,PHEV,2
+WA,Cle Elum,2014,BEV,2
+WA,Cle Elum,2013,PHEV,5
+WA,Cle Elum,2022,BEV,31
+WA,Mead,2016,PHEV,2
+WA,Mead,2019,BEV,4
+WA,Mead,2020,BEV,4
+WA,Mead,2018,BEV,5
+WA,Mead,2015,PHEV,2
+WA,Mead,2021,BEV,12
+WA,Mead,2017,PHEV,4
+WA,Mead,2012,PHEV,2
+WA,Mead,2014,PHEV,2
+WA,Mead,2013,PHEV,1
+WA,Mead,2022,PHEV,4
+WA,Spokane Valley,2016,PHEV,41
+WA,Spokane Valley,2019,PHEV,31
+WA,Spokane Valley,2020,BEV,23
+WA,Spokane Valley,2018,PHEV,34
+WA,Spokane Valley,2015,BEV,13
+WA,Spokane Valley,2021,BEV,90
+WA,Spokane Valley,2017,BEV,35
+WA,Spokane Valley,2012,PHEV,8
+WA,Spokane Valley,2011,BEV,4
+WA,Spokane Valley,2014,PHEV,20
+WA,Spokane Valley,2013,PHEV,17
+WA,Spokane Valley,2022,BEV,93
+WA,Spokane Valley,2023,PHEV,1
+WA,Waitsburg,2016,BEV,1
+WA,Waitsburg,2020,BEV,1
+WA,Waitsburg,2021,BEV,1
+WA,Waitsburg,2017,BEV,2
+WA,Waitsburg,2014,BEV,2
+WA,Waitsburg,2013,PHEV,1
+WA,Waitsburg,2022,BEV,1
+WA,Lynden,2016,BEV,9
+WA,Lynden,2019,PHEV,10
+WA,Lynden,2020,BEV,13
+WA,Lynden,2018,BEV,17
+WA,Lynden,2015,BEV,6
+WA,Lynden,2021,BEV,18
+WA,Lynden,2017,BEV,17
+WA,Lynden,2012,BEV,2
+WA,Lynden,2011,BEV,1
+WA,Lynden,2014,PHEV,6
+WA,Lynden,2013,BEV,13
+WA,Lynden,2022,PHEV,20
+WA,Kennewick,2016,BEV,34
+WA,Kennewick,2019,BEV,46
+WA,Kennewick,2020,PHEV,43
+WA,Kennewick,2018,PHEV,65
+WA,Kennewick,2015,BEV,24
+WA,Kennewick,2021,BEV,108
+WA,Kennewick,2017,PHEV,65
+WA,Kennewick,2012,BEV,18
+WA,Kennewick,2011,BEV,4
+WA,Kennewick,2014,PHEV,25
+WA,Kennewick,2013,PHEV,30
+WA,Kennewick,2022,BEV,92
+WA,Winlock,2016,PHEV,3
+WA,Winlock,2019,BEV,4
+WA,Winlock,2020,BEV,7
+WA,Winlock,2018,BEV,5
+WA,Winlock,2015,PHEV,1
+WA,Winlock,2021,BEV,7
+WA,Winlock,2017,PHEV,2
+WA,Winlock,2012,PHEV,1
+WA,Winlock,2011,BEV,1
+WA,Winlock,2014,PHEV,4
+WA,Winlock,2013,BEV,1
+WA,Winlock,2022,PHEV,6
+WA,Selah,2016,BEV,6
+WA,Selah,2019,BEV,5
+WA,Selah,2020,BEV,3
+WA,Selah,2018,BEV,11
+WA,Selah,2021,PHEV,10
+WA,Selah,2017,BEV,7
+WA,Selah,2012,PHEV,3
+WA,Selah,2014,BEV,3
+WA,Selah,2013,BEV,1
+WA,Selah,2022,BEV,10
+WA,Selah,2023,PHEV,1
+WA,Lakewood,2016,PHEV,28
+WA,Lakewood,2019,BEV,50
+WA,Lakewood,2020,BEV,41
+WA,Lakewood,2018,PHEV,59
+WA,Lakewood,2015,PHEV,16
+WA,Lakewood,2021,BEV,51
+WA,Lakewood,2017,BEV,44
+WA,Lakewood,2012,PHEV,10
+WA,Lakewood,2011,BEV,2
+WA,Lakewood,2014,PHEV,16
+WA,Lakewood,2013,BEV,21
+WA,Lakewood,2022,BEV,57
+WA,Fall City,2016,BEV,5
+WA,Fall City,2019,BEV,17
+WA,Fall City,2020,BEV,17
+WA,Fall City,2018,BEV,22
+WA,Fall City,2015,BEV,10
+WA,Fall City,2021,BEV,30
+WA,Fall City,2017,BEV,14
+WA,Fall City,2012,PHEV,1
+WA,Fall City,2011,BEV,1
+WA,Fall City,2014,PHEV,4
+WA,Fall City,2013,PHEV,5
+WA,Fall City,2022,BEV,29
+WA,Poulsbo,2016,PHEV,37
+WA,Poulsbo,2019,BEV,41
+WA,Poulsbo,2020,BEV,33
+WA,Poulsbo,2018,BEV,69
+WA,Poulsbo,2015,BEV,31
+WA,Poulsbo,2021,BEV,83
+WA,Poulsbo,2017,BEV,51
+WA,Poulsbo,2012,PHEV,8
+WA,Poulsbo,2011,PHEV,3
+WA,Poulsbo,2014,BEV,22
+WA,Poulsbo,2013,BEV,30
+WA,Poulsbo,2022,BEV,80
+WA,Lummi Island,2016,PHEV,3
+WA,Lummi Island,2019,BEV,6
+WA,Lummi Island,2020,BEV,4
+WA,Lummi Island,2015,BEV,2
+WA,Lummi Island,2021,BEV,2
+WA,Lummi Island,2017,PHEV,6
+WA,Lummi Island,2012,BEV,1
+WA,Lummi Island,2014,PHEV,2
+WA,Lummi Island,2013,BEV,4
+WA,Lummi Island,2022,PHEV,2
+WA,Eastsound,2016,BEV,32
+WA,Eastsound,2019,BEV,27
+WA,Eastsound,2020,BEV,9
+WA,Eastsound,2018,BEV,21
+WA,Eastsound,2015,BEV,20
+WA,Eastsound,2021,PHEV,21
+WA,Eastsound,2017,BEV,33
+WA,Eastsound,2012,PHEV,9
+WA,Eastsound,2011,BEV,6
+WA,Eastsound,2014,BEV,17
+WA,Eastsound,2013,BEV,9
+WA,Eastsound,2022,BEV,20
+WA,Covington,2016,PHEV,21
+WA,Covington,2019,BEV,19
+WA,Covington,2020,BEV,33
+WA,Covington,2018,BEV,35
+WA,Covington,2015,BEV,15
+WA,Covington,2021,BEV,62
+WA,Covington,2017,PHEV,37
+WA,Covington,2012,PHEV,2
+WA,Covington,2011,BEV,1
+WA,Covington,2014,BEV,8
+WA,Covington,2013,BEV,15
+WA,Covington,2022,BEV,67
+WA,Newman Lake,2016,BEV,2
+WA,Newman Lake,2019,BEV,1
+WA,Newman Lake,2020,BEV,1
+WA,Newman Lake,2018,BEV,2
+WA,Newman Lake,2015,PHEV,2
+WA,Newman Lake,2021,BEV,2
+WA,Newman Lake,2011,PHEV,2
+WA,Newman Lake,2014,BEV,1
+WA,Newman Lake,2022,BEV,6
+WA,Newman Lake,2010,BEV,1
+WA,Lake Tapps,2016,PHEV,9
+WA,Lake Tapps,2019,BEV,15
+WA,Lake Tapps,2020,BEV,27
+WA,Lake Tapps,2018,BEV,22
+WA,Lake Tapps,2015,BEV,11
+WA,Lake Tapps,2021,BEV,31
+WA,Lake Tapps,2017,BEV,9
+WA,Lake Tapps,2012,BEV,8
+WA,Lake Tapps,2014,PHEV,7
+WA,Lake Tapps,2013,BEV,10
+WA,Lake Tapps,2022,BEV,31
+WA,Lake Tapps,2023,BEV,1
+WA,Bay Center,2019,PHEV,2
+WA,Quincy,2016,BEV,1
+WA,Quincy,2019,BEV,6
+WA,Quincy,2020,BEV,4
+WA,Quincy,2018,PHEV,11
+WA,Quincy,2015,BEV,2
+WA,Quincy,2021,BEV,9
+WA,Quincy,2017,BEV,2
+WA,Quincy,2012,PHEV,1
+WA,Quincy,2014,BEV,3
+WA,Quincy,2013,PHEV,1
+WA,Quincy,2022,BEV,14
+WA,Quincy,2008,BEV,1
+WA,Entiat,2016,PHEV,1
+WA,Entiat,2019,BEV,1
+WA,Entiat,2020,BEV,2
+WA,Entiat,2018,PHEV,1
+WA,Entiat,2015,PHEV,4
+WA,Entiat,2021,BEV,2
+WA,Entiat,2012,PHEV,2
+WA,Entiat,2014,PHEV,1
+WA,Entiat,2013,BEV,1
+WA,Entiat,2022,BEV,1
+WA,Kelso,2016,BEV,3
+WA,Kelso,2019,BEV,13
+WA,Kelso,2020,BEV,15
+WA,Kelso,2018,BEV,17
+WA,Kelso,2015,BEV,4
+WA,Kelso,2021,BEV,18
+WA,Kelso,2017,PHEV,12
+WA,Kelso,2012,PHEV,3
+WA,Kelso,2011,BEV,1
+WA,Kelso,2014,PHEV,4
+WA,Kelso,2013,BEV,5
+WA,Kelso,2022,BEV,14
+WA,Ruston,2016,BEV,1
+WA,Ruston,2019,BEV,2
+WA,Ruston,2020,BEV,3
+WA,Ruston,2018,BEV,2
+WA,Ruston,2015,PHEV,1
+WA,Ruston,2021,BEV,6
+WA,Ruston,2017,PHEV,2
+WA,Ruston,2014,BEV,1
+WA,Ruston,2013,PHEV,2
+WA,Ruston,2022,BEV,5
+WA,Sequim,2016,BEV,20
+WA,Sequim,2019,PHEV,44
+WA,Sequim,2020,PHEV,30
+WA,Sequim,2018,BEV,58
+WA,Sequim,2015,BEV,25
+WA,Sequim,2021,BEV,63
+WA,Sequim,2017,BEV,65
+WA,Sequim,2012,PHEV,9
+WA,Sequim,2011,BEV,3
+WA,Sequim,2014,BEV,15
+WA,Sequim,2013,PHEV,27
+WA,Sequim,2022,BEV,50
+WA,Sequim,2023,BEV,1
+WA,Sequim,2002,BEV,1
+WA,Sequim,1998,BEV,1
+WA,Monroe,2016,BEV,22
+WA,Monroe,2019,PHEV,37
+WA,Monroe,2020,BEV,45
+WA,Monroe,2018,PHEV,45
+WA,Monroe,2015,BEV,19
+WA,Monroe,2021,BEV,88
+WA,Monroe,2017,PHEV,34
+WA,Monroe,2012,PHEV,5
+WA,Monroe,2011,PHEV,5
+WA,Monroe,2014,PHEV,22
+WA,Monroe,2013,BEV,18
+WA,Monroe,2022,BEV,96
+WA,Monroe,2023,BEV,2
+WA,Black Diamond,2016,BEV,9
+WA,Black Diamond,2019,BEV,22
+WA,Black Diamond,2020,BEV,15
+WA,Black Diamond,2018,PHEV,14
+WA,Black Diamond,2015,BEV,3
+WA,Black Diamond,2021,BEV,40
+WA,Black Diamond,2017,BEV,11
+WA,Black Diamond,2012,PHEV,4
+WA,Black Diamond,2014,PHEV,6
+WA,Black Diamond,2013,BEV,3
+WA,Black Diamond,2022,PHEV,45
+WA,Mill Creek,2016,BEV,16
+WA,Mill Creek,2019,BEV,35
+WA,Mill Creek,2020,BEV,50
+WA,Mill Creek,2018,BEV,65
+WA,Mill Creek,2015,PHEV,19
+WA,Mill Creek,2021,BEV,69
+WA,Mill Creek,2017,PHEV,20
+WA,Mill Creek,2012,BEV,6
+WA,Mill Creek,2011,BEV,3
+WA,Mill Creek,2014,PHEV,5
+WA,Mill Creek,2013,BEV,11
+WA,Mill Creek,2022,BEV,76
+WA,Liberty Lake,2016,PHEV,5
+WA,Liberty Lake,2019,BEV,7
+WA,Liberty Lake,2020,BEV,7
+WA,Liberty Lake,2018,PHEV,13
+WA,Liberty Lake,2015,BEV,4
+WA,Liberty Lake,2021,BEV,18
+WA,Liberty Lake,2017,BEV,11
+WA,Liberty Lake,2014,PHEV,4
+WA,Liberty Lake,2013,BEV,4
+WA,Liberty Lake,2022,BEV,36
+WA,Liberty Lake,2023,BEV,1
+WA,Hansville,2016,PHEV,6
+WA,Hansville,2019,PHEV,6
+WA,Hansville,2020,BEV,2
+WA,Hansville,2018,BEV,4
+WA,Hansville,2015,PHEV,4
+WA,Hansville,2021,BEV,5
+WA,Hansville,2017,PHEV,4
+WA,Hansville,2012,PHEV,1
+WA,Hansville,2014,BEV,1
+WA,Hansville,2013,BEV,1
+WA,Hansville,2022,BEV,7
+WA,Duvall,2016,BEV,25
+WA,Duvall,2019,BEV,33
+WA,Duvall,2020,BEV,40
+WA,Duvall,2018,BEV,58
+WA,Duvall,2015,BEV,12
+WA,Duvall,2021,BEV,69
+WA,Duvall,2017,PHEV,31
+WA,Duvall,2012,BEV,1
+WA,Duvall,2014,BEV,16
+WA,Duvall,2013,BEV,12
+WA,Duvall,2022,BEV,67
+WA,Medina,2016,BEV,12
+WA,Medina,2019,BEV,29
+WA,Medina,2020,BEV,32
+WA,Medina,2018,PHEV,37
+WA,Medina,2015,PHEV,12
+WA,Medina,2021,BEV,39
+WA,Medina,2017,BEV,14
+WA,Medina,2012,BEV,1
+WA,Medina,2014,BEV,9
+WA,Medina,2013,BEV,8
+WA,Medina,2022,BEV,37
+WA,Silverdale,2016,BEV,14
+WA,Silverdale,2019,BEV,21
+WA,Silverdale,2020,BEV,33
+WA,Silverdale,2018,PHEV,29
+WA,Silverdale,2015,BEV,12
+WA,Silverdale,2021,BEV,46
+WA,Silverdale,2017,PHEV,25
+WA,Silverdale,2012,BEV,5
+WA,Silverdale,2011,BEV,2
+WA,Silverdale,2014,BEV,6
+WA,Silverdale,2013,BEV,8
+WA,Silverdale,2022,PHEV,37
+WA,Carnation,2016,BEV,14
+WA,Carnation,2019,BEV,21
+WA,Carnation,2020,BEV,18
+WA,Carnation,2018,BEV,23
+WA,Carnation,2015,BEV,5
+WA,Carnation,2021,BEV,40
+WA,Carnation,2017,PHEV,23
+WA,Carnation,2012,BEV,3
+WA,Carnation,2011,BEV,4
+WA,Carnation,2014,BEV,13
+WA,Carnation,2013,BEV,12
+WA,Carnation,2022,BEV,51
+WA,Palouse,2016,BEV,1
+WA,Palouse,2019,BEV,1
+WA,Palouse,2018,PHEV,4
+WA,Palouse,2017,BEV,2
+WA,Palouse,2011,BEV,1
+WA,Palouse,2022,PHEV,1
+WA,Endicott,2020,PHEV,1
+WA,Endicott,2018,PHEV,1
+WA,Endicott,2015,BEV,1
+WA,Battle Ground,2016,BEV,26
+WA,Battle Ground,2019,BEV,30
+WA,Battle Ground,2020,BEV,29
+WA,Battle Ground,2018,BEV,42
+WA,Battle Ground,2015,PHEV,18
+WA,Battle Ground,2021,PHEV,69
+WA,Battle Ground,2017,PHEV,43
+WA,Battle Ground,2012,BEV,5
+WA,Battle Ground,2011,BEV,4
+WA,Battle Ground,2014,BEV,21
+WA,Battle Ground,2013,PHEV,16
+WA,Battle Ground,2022,PHEV,59
+WA,Battle Ground,2023,BEV,1
+WA,Langley,2016,PHEV,5
+WA,Langley,2019,BEV,15
+WA,Langley,2020,BEV,31
+WA,Langley,2018,PHEV,20
+WA,Langley,2015,BEV,10
+WA,Langley,2021,BEV,30
+WA,Langley,2017,BEV,14
+WA,Langley,2012,BEV,4
+WA,Langley,2011,BEV,4
+WA,Langley,2014,PHEV,6
+WA,Langley,2013,BEV,6
+WA,Langley,2022,BEV,31
+WA,Langley,2023,BEV,1
+WA,Graham,2016,PHEV,19
+WA,Graham,2019,PHEV,20
+WA,Graham,2020,BEV,16
+WA,Graham,2018,BEV,16
+WA,Graham,2015,BEV,10
+WA,Graham,2021,BEV,31
+WA,Graham,2017,BEV,23
+WA,Graham,2012,PHEV,6
+WA,Graham,2014,BEV,8
+WA,Graham,2013,PHEV,15
+WA,Graham,2022,BEV,42
+WA,Graham,1999,BEV,1
+WA,Sumner,2016,PHEV,2
+WA,Sumner,2019,BEV,6
+WA,Sumner,2020,BEV,12
+WA,Sumner,2018,PHEV,8
+WA,Sumner,2015,BEV,3
+WA,Sumner,2021,BEV,16
+WA,Sumner,2017,PHEV,7
+WA,Sumner,2012,PHEV,3
+WA,Sumner,2011,BEV,1
+WA,Sumner,2014,PHEV,3
+WA,Sumner,2013,PHEV,9
+WA,Sumner,2022,PHEV,16
+WA,Everson,2016,BEV,7
+WA,Everson,2019,BEV,3
+WA,Everson,2020,BEV,6
+WA,Everson,2018,BEV,5
+WA,Everson,2015,BEV,3
+WA,Everson,2021,BEV,9
+WA,Everson,2017,PHEV,10
+WA,Everson,2012,BEV,4
+WA,Everson,2011,BEV,1
+WA,Everson,2014,BEV,1
+WA,Everson,2013,PHEV,6
+WA,Everson,2022,BEV,5
+WA,Everson,2000,BEV,2
+WA,Clyde Hill,2016,BEV,13
+WA,Clyde Hill,2019,BEV,20
+WA,Clyde Hill,2020,BEV,34
+WA,Clyde Hill,2018,BEV,36
+WA,Clyde Hill,2015,BEV,10
+WA,Clyde Hill,2021,BEV,26
+WA,Clyde Hill,2017,BEV,15
+WA,Clyde Hill,2012,BEV,3
+WA,Clyde Hill,2014,BEV,5
+WA,Clyde Hill,2013,BEV,3
+WA,Clyde Hill,2022,BEV,55
+WA,Washougal,2016,PHEV,22
+WA,Washougal,2019,PHEV,45
+WA,Washougal,2020,BEV,35
+WA,Washougal,2018,BEV,50
+WA,Washougal,2015,PHEV,13
+WA,Washougal,2021,BEV,63
+WA,Washougal,2017,BEV,37
+WA,Washougal,2012,PHEV,6
+WA,Washougal,2011,BEV,3
+WA,Washougal,2014,PHEV,13
+WA,Washougal,2013,PHEV,18
+WA,Washougal,2022,BEV,71
+WA,Washougal,2023,BEV,3
+WA,Mountlake Terrace,2016,BEV,15
+WA,Mountlake Terrace,2019,BEV,24
+WA,Mountlake Terrace,2020,BEV,28
+WA,Mountlake Terrace,2018,BEV,29
+WA,Mountlake Terrace,2015,BEV,13
+WA,Mountlake Terrace,2021,BEV,42
+WA,Mountlake Terrace,2017,PHEV,23
+WA,Mountlake Terrace,2012,BEV,2
+WA,Mountlake Terrace,2011,BEV,3
+WA,Mountlake Terrace,2014,PHEV,12
+WA,Mountlake Terrace,2013,BEV,12
+WA,Mountlake Terrace,2022,BEV,60
+WA,Lopez Island,2016,BEV,9
+WA,Lopez Island,2019,BEV,16
+WA,Lopez Island,2020,BEV,3
+WA,Lopez Island,2018,PHEV,7
+WA,Lopez Island,2015,PHEV,7
+WA,Lopez Island,2021,BEV,5
+WA,Lopez Island,2017,PHEV,11
+WA,Lopez Island,2012,BEV,5
+WA,Lopez Island,2011,BEV,2
+WA,Lopez Island,2014,PHEV,7
+WA,Lopez Island,2013,BEV,6
+WA,Lopez Island,2022,BEV,8
+WA,Coupeville,2016,PHEV,8
+WA,Coupeville,2019,BEV,16
+WA,Coupeville,2020,BEV,18
+WA,Coupeville,2018,PHEV,24
+WA,Coupeville,2015,PHEV,9
+WA,Coupeville,2021,BEV,21
+WA,Coupeville,2017,BEV,15
+WA,Coupeville,2012,BEV,5
+WA,Coupeville,2011,BEV,2
+WA,Coupeville,2014,PHEV,6
+WA,Coupeville,2013,BEV,10
+WA,Coupeville,2022,PHEV,14
+WA,Sultan,2016,BEV,6
+WA,Sultan,2019,BEV,11
+WA,Sultan,2020,BEV,4
+WA,Sultan,2018,BEV,7
+WA,Sultan,2015,PHEV,4
+WA,Sultan,2021,BEV,18
+WA,Sultan,2017,BEV,8
+WA,Sultan,2012,BEV,2
+WA,Sultan,2014,PHEV,1
+WA,Sultan,2013,PHEV,7
+WA,Sultan,2022,BEV,20
+WA,Steilacoom,2016,BEV,5
+WA,Steilacoom,2019,BEV,12
+WA,Steilacoom,2020,BEV,8
+WA,Steilacoom,2018,BEV,15
+WA,Steilacoom,2015,BEV,8
+WA,Steilacoom,2021,BEV,22
+WA,Steilacoom,2017,BEV,16
+WA,Steilacoom,2012,PHEV,2
+WA,Steilacoom,2014,PHEV,3
+WA,Steilacoom,2013,PHEV,6
+WA,Steilacoom,2022,BEV,17
+WA,Steilacoom,2023,BEV,1
+WA,Steilacoom,2008,BEV,1
+WA,Steilacoom,2010,BEV,1
+WA,Soap Lake,2019,BEV,1
+WA,Soap Lake,2020,BEV,1
+WA,Soap Lake,2018,PHEV,1
+WA,Soap Lake,2015,BEV,1
+WA,Soap Lake,2021,BEV,4
+WA,Soap Lake,2017,PHEV,2
+WA,Soap Lake,2012,PHEV,1
+WA,Soap Lake,2014,PHEV,2
+WA,Soap Lake,2022,BEV,1
+WA,Spanaway,2016,BEV,21
+WA,Spanaway,2019,BEV,25
+WA,Spanaway,2020,BEV,17
+WA,Spanaway,2018,PHEV,29
+WA,Spanaway,2015,PHEV,11
+WA,Spanaway,2021,BEV,34
+WA,Spanaway,2017,BEV,31
+WA,Spanaway,2012,PHEV,4
+WA,Spanaway,2011,BEV,8
+WA,Spanaway,2014,BEV,5
+WA,Spanaway,2013,BEV,17
+WA,Spanaway,2022,PHEV,45
+WA,Spanaway,2023,BEV,1
+WA,Port Ludlow,2016,BEV,4
+WA,Port Ludlow,2019,BEV,8
+WA,Port Ludlow,2020,BEV,12
+WA,Port Ludlow,2018,BEV,14
+WA,Port Ludlow,2015,BEV,5
+WA,Port Ludlow,2021,BEV,13
+WA,Port Ludlow,2017,BEV,10
+WA,Port Ludlow,2012,PHEV,2
+WA,Port Ludlow,2014,PHEV,4
+WA,Port Ludlow,2013,BEV,5
+WA,Port Ludlow,2022,BEV,15
+WA,Lakebay,2016,PHEV,8
+WA,Lakebay,2019,PHEV,7
+WA,Lakebay,2020,BEV,3
+WA,Lakebay,2018,BEV,6
+WA,Lakebay,2015,PHEV,5
+WA,Lakebay,2021,BEV,11
+WA,Lakebay,2017,PHEV,11
+WA,Lakebay,2012,PHEV,1
+WA,Lakebay,2014,PHEV,3
+WA,Lakebay,2013,PHEV,2
+WA,Lakebay,2022,BEV,10
+WA,Lakebay,2023,BEV,1
+WA,Custer,2016,BEV,2
+WA,Custer,2019,BEV,4
+WA,Custer,2020,PHEV,3
+WA,Custer,2018,BEV,2
+WA,Custer,2015,BEV,1
+WA,Custer,2021,BEV,2
+WA,Custer,2011,BEV,1
+WA,Custer,2014,PHEV,2
+WA,Custer,2013,BEV,1
+WA,Custer,2022,BEV,3
+WA,Concrete,2016,BEV,1
+WA,Concrete,2019,BEV,2
+WA,Concrete,2020,BEV,1
+WA,Concrete,2018,BEV,4
+WA,Concrete,2015,PHEV,1
+WA,Concrete,2021,BEV,3
+WA,Concrete,2017,BEV,2
+WA,Concrete,2014,PHEV,1
+WA,Concrete,2022,BEV,9
+VA,Alexandria,2020,BEV,1
+VA,Alexandria,2018,BEV,3
+VA,Alexandria,2015,BEV,1
+VA,Alexandria,2021,PHEV,2
+VA,Alexandria,2017,BEV,1
+VA,Alexandria,2011,BEV,1
+VA,Alexandria,2022,BEV,2
+WA,Allyn,2016,BEV,5
+WA,Allyn,2019,PHEV,4
+WA,Allyn,2020,BEV,4
+WA,Allyn,2018,PHEV,13
+WA,Allyn,2015,BEV,1
+WA,Allyn,2021,PHEV,7
+WA,Allyn,2017,BEV,4
+WA,Allyn,2014,BEV,2
+WA,Allyn,2022,BEV,12
+WA,Des Moines,2016,BEV,25
+WA,Des Moines,2019,BEV,17
+WA,Des Moines,2020,BEV,17
+WA,Des Moines,2018,BEV,37
+WA,Des Moines,2015,PHEV,14
+WA,Des Moines,2021,PHEV,50
+WA,Des Moines,2017,PHEV,25
+WA,Des Moines,2012,BEV,2
+WA,Des Moines,2011,BEV,3
+WA,Des Moines,2014,BEV,15
+WA,Des Moines,2013,BEV,21
+WA,Des Moines,2022,BEV,67
+WA,Des Moines,2023,BEV,1
+WA,Yarrow Point,2016,PHEV,7
+WA,Yarrow Point,2019,BEV,16
+WA,Yarrow Point,2020,BEV,13
+WA,Yarrow Point,2018,BEV,19
+WA,Yarrow Point,2015,BEV,4
+WA,Yarrow Point,2021,BEV,11
+WA,Yarrow Point,2017,PHEV,7
+WA,Yarrow Point,2012,PHEV,1
+WA,Yarrow Point,2013,BEV,4
+WA,Yarrow Point,2022,BEV,24
+CT,Pawcatuck,2014,PHEV,1
+WA,Point Roberts,2016,BEV,3
+WA,Point Roberts,2019,BEV,4
+WA,Point Roberts,2020,BEV,5
+WA,Point Roberts,2018,PHEV,4
+WA,Point Roberts,2015,BEV,4
+WA,Point Roberts,2021,BEV,7
+WA,Point Roberts,2017,PHEV,4
+WA,Point Roberts,2012,BEV,2
+WA,Point Roberts,2011,BEV,1
+WA,Point Roberts,2013,BEV,1
+WA,Point Roberts,2022,BEV,7
+WA,Stanwood,2016,BEV,19
+WA,Stanwood,2019,BEV,25
+WA,Stanwood,2020,BEV,31
+WA,Stanwood,2018,BEV,35
+WA,Stanwood,2015,BEV,11
+WA,Stanwood,2021,PHEV,45
+WA,Stanwood,2017,BEV,31
+WA,Stanwood,2012,BEV,7
+WA,Stanwood,2011,BEV,1
+WA,Stanwood,2014,BEV,8
+WA,Stanwood,2013,BEV,12
+WA,Stanwood,2022,PHEV,47
+WA,Stanwood,2023,BEV,2
+WA,Sedro-Woolley,2016,PHEV,7
+WA,Sedro-Woolley,2019,BEV,6
+WA,Sedro-Woolley,2020,PHEV,12
+WA,Sedro-Woolley,2018,BEV,19
+WA,Sedro-Woolley,2015,PHEV,7
+WA,Sedro-Woolley,2021,BEV,18
+WA,Sedro-Woolley,2017,BEV,13
+WA,Sedro-Woolley,2012,BEV,2
+WA,Sedro-Woolley,2011,PHEV,1
+WA,Sedro-Woolley,2014,PHEV,8
+WA,Sedro-Woolley,2013,BEV,6
+WA,Sedro-Woolley,2022,BEV,14
+WA,Kalama,2016,BEV,5
+WA,Kalama,2019,PHEV,11
+WA,Kalama,2020,BEV,11
+WA,Kalama,2018,BEV,6
+WA,Kalama,2015,BEV,2
+WA,Kalama,2021,BEV,9
+WA,Kalama,2017,PHEV,9
+WA,Kalama,2012,PHEV,3
+WA,Kalama,2013,PHEV,4
+WA,Kalama,2022,BEV,18
+WA,La Center,2016,BEV,14
+WA,La Center,2019,BEV,10
+WA,La Center,2020,BEV,10
+WA,La Center,2018,PHEV,11
+WA,La Center,2015,BEV,5
+WA,La Center,2021,BEV,15
+WA,La Center,2017,PHEV,22
+WA,La Center,2012,PHEV,2
+WA,La Center,2014,PHEV,3
+WA,La Center,2013,BEV,5
+WA,La Center,2022,BEV,28
+WA,Ilwaco,2016,BEV,2
+WA,Ilwaco,2019,BEV,1
+WA,Ilwaco,2018,PHEV,2
+WA,Ilwaco,2017,PHEV,2
+WA,Ilwaco,2022,PHEV,2
+WA,Royal City,2019,BEV,1
+WA,Royal City,2020,BEV,1
+WA,Royal City,2018,BEV,1
+WA,Royal City,2021,BEV,4
+WA,Royal City,2017,PHEV,2
+WA,Royal City,2022,BEV,5
+WA,Blaine,2016,PHEV,14
+WA,Blaine,2019,PHEV,32
+WA,Blaine,2020,BEV,25
+WA,Blaine,2018,PHEV,31
+WA,Blaine,2015,BEV,15
+WA,Blaine,2021,PHEV,47
+WA,Blaine,2017,BEV,26
+WA,Blaine,2012,PHEV,2
+WA,Blaine,2011,PHEV,1
+WA,Blaine,2014,PHEV,17
+WA,Blaine,2013,PHEV,20
+WA,Blaine,2022,BEV,47
+WA,Bow,2016,BEV,6
+WA,Bow,2019,BEV,12
+WA,Bow,2020,BEV,6
+WA,Bow,2018,BEV,13
+WA,Bow,2015,BEV,6
+WA,Bow,2021,PHEV,15
+WA,Bow,2017,BEV,9
+WA,Bow,2012,PHEV,1
+WA,Bow,2014,PHEV,2
+WA,Bow,2013,BEV,2
+WA,Bow,2022,BEV,10
+WA,Silver Creek,2018,BEV,1
+WA,Silver Creek,2015,PHEV,1
+WA,Silver Creek,2021,BEV,2
+WA,Silver Creek,2017,PHEV,1
+WA,Silver Creek,2014,PHEV,1
+WA,Silver Creek,2022,PHEV,2
+WA,Manson,2016,BEV,4
+WA,Manson,2020,BEV,4
+WA,Manson,2018,PHEV,9
+WA,Manson,2015,BEV,2
+WA,Manson,2021,BEV,6
+WA,Manson,2017,BEV,2
+WA,Manson,2014,PHEV,1
+WA,Manson,2013,BEV,3
+WA,Manson,2022,BEV,12
+WA,Freeland,2016,BEV,5
+WA,Freeland,2019,BEV,10
+WA,Freeland,2020,BEV,8
+WA,Freeland,2018,BEV,17
+WA,Freeland,2015,PHEV,8
+WA,Freeland,2021,BEV,23
+WA,Freeland,2017,BEV,17
+WA,Freeland,2012,PHEV,3
+WA,Freeland,2011,BEV,1
+WA,Freeland,2014,PHEV,7
+WA,Freeland,2013,PHEV,11
+WA,Freeland,2022,BEV,16
+WA,Freeland,2010,BEV,1
+WA,Edgewood,2016,PHEV,9
+WA,Edgewood,2019,BEV,23
+WA,Edgewood,2020,BEV,14
+WA,Edgewood,2018,BEV,20
+WA,Edgewood,2015,PHEV,6
+WA,Edgewood,2021,BEV,39
+WA,Edgewood,2017,PHEV,14
+WA,Edgewood,2012,BEV,2
+WA,Edgewood,2011,BEV,2
+WA,Edgewood,2014,BEV,8
+WA,Edgewood,2013,BEV,11
+WA,Edgewood,2022,BEV,40
+WA,Edgewood,2023,BEV,1
+WA,Usk,2020,BEV,1
+WA,Usk,2022,BEV,1
+WA,Sunnyside,2016,BEV,5
+WA,Sunnyside,2019,BEV,3
+WA,Sunnyside,2020,BEV,2
+WA,Sunnyside,2018,BEV,3
+WA,Sunnyside,2021,PHEV,4
+WA,Sunnyside,2017,BEV,7
+WA,Sunnyside,2013,BEV,2
+WA,Sunnyside,2022,BEV,11
+WA,Sunnyside,2023,BEV,1
+WA,Tenino,2016,PHEV,4
+WA,Tenino,2019,PHEV,10
+WA,Tenino,2020,BEV,6
+WA,Tenino,2018,BEV,5
+WA,Tenino,2015,PHEV,3
+WA,Tenino,2021,PHEV,9
+WA,Tenino,2017,PHEV,5
+WA,Tenino,2012,PHEV,2
+WA,Tenino,2011,BEV,1
+WA,Tenino,2014,PHEV,6
+WA,Tenino,2013,PHEV,9
+WA,Tenino,2022,BEV,8
+WA,Shelton,2016,BEV,16
+WA,Shelton,2019,PHEV,35
+WA,Shelton,2020,BEV,14
+WA,Shelton,2018,PHEV,37
+WA,Shelton,2015,BEV,9
+WA,Shelton,2021,BEV,39
+WA,Shelton,2017,PHEV,29
+WA,Shelton,2012,BEV,10
+WA,Shelton,2011,BEV,2
+WA,Shelton,2014,BEV,13
+WA,Shelton,2013,BEV,17
+WA,Shelton,2022,PHEV,35
+WA,Roy,2016,PHEV,3
+WA,Roy,2019,BEV,10
+WA,Roy,2020,BEV,6
+WA,Roy,2018,PHEV,19
+WA,Roy,2015,PHEV,6
+WA,Roy,2021,BEV,20
+WA,Roy,2017,BEV,11
+WA,Roy,2011,BEV,1
+WA,Roy,2014,PHEV,3
+WA,Roy,2013,PHEV,6
+WA,Roy,2022,BEV,11
+WA,Ritzville,2019,PHEV,1
+WA,Ritzville,2020,BEV,1
+WA,Ritzville,2015,BEV,1
+WA,Ritzville,2021,BEV,2
+WA,Ritzville,2017,PHEV,3
+WA,Ritzville,2014,PHEV,1
+WA,Ritzville,2022,BEV,1
+CA,Rosamond,2017,BEV,1
+WA,Tumtum,2020,PHEV,1
+WA,Tumtum,2021,BEV,1
+WA,Yelm,2016,PHEV,5
+WA,Yelm,2019,PHEV,27
+WA,Yelm,2020,PHEV,14
+WA,Yelm,2018,PHEV,21
+WA,Yelm,2015,BEV,11
+WA,Yelm,2021,BEV,33
+WA,Yelm,2017,PHEV,23
+WA,Yelm,2012,PHEV,7
+WA,Yelm,2011,BEV,1
+WA,Yelm,2014,PHEV,4
+WA,Yelm,2013,PHEV,12
+WA,Yelm,2022,BEV,36
+CA,Ridgecrest,2019,BEV,1
+CA,Ridgecrest,2015,PHEV,1
+WA,Outlook,2016,PHEV,1
+WA,Outlook,2020,BEV,1
+WA,Outlook,2017,BEV,1
+WA,Orondo,2016,BEV,2
+WA,Orondo,2019,BEV,1
+WA,Orondo,2020,BEV,2
+WA,Orondo,2018,BEV,3
+WA,Orondo,2021,BEV,9
+WA,Orondo,2017,PHEV,1
+WA,Orondo,2014,BEV,3
+WA,Orondo,2013,BEV,4
+WA,Orondo,2022,PHEV,9
+WA,West Richland,2016,BEV,5
+WA,West Richland,2019,PHEV,15
+WA,West Richland,2020,BEV,13
+WA,West Richland,2018,BEV,21
+WA,West Richland,2015,PHEV,5
+WA,West Richland,2021,BEV,22
+WA,West Richland,2017,PHEV,18
+WA,West Richland,2012,PHEV,3
+WA,West Richland,2011,BEV,1
+WA,West Richland,2014,BEV,5
+WA,West Richland,2013,BEV,6
+WA,West Richland,2022,BEV,26
+WA,Newport,2016,PHEV,1
+WA,Newport,2019,BEV,1
+WA,Newport,2020,BEV,3
+WA,Newport,2018,PHEV,4
+WA,Newport,2021,PHEV,7
+WA,Newport,2017,PHEV,4
+WA,Newport,2014,PHEV,1
+WA,Newport,2013,BEV,3
+WA,Newport,2022,BEV,1
+WA,Fircrest,2016,PHEV,6
+WA,Fircrest,2019,BEV,6
+WA,Fircrest,2020,BEV,6
+WA,Fircrest,2018,BEV,9
+WA,Fircrest,2015,BEV,3
+WA,Fircrest,2021,BEV,21
+WA,Fircrest,2017,BEV,6
+WA,Fircrest,2012,PHEV,1
+WA,Fircrest,2011,BEV,1
+WA,Fircrest,2014,BEV,3
+WA,Fircrest,2013,BEV,1
+WA,Fircrest,2022,PHEV,16
+WA,Gold Bar,2016,BEV,3
+WA,Gold Bar,2019,BEV,3
+WA,Gold Bar,2020,BEV,3
+WA,Gold Bar,2018,BEV,7
+WA,Gold Bar,2015,BEV,1
+WA,Gold Bar,2021,PHEV,3
+WA,Gold Bar,2017,BEV,6
+WA,Gold Bar,2014,BEV,4
+WA,Gold Bar,2013,PHEV,4
+WA,Gold Bar,2022,BEV,4
+WA,College Place,2016,PHEV,4
+WA,College Place,2019,BEV,2
+WA,College Place,2020,BEV,6
+WA,College Place,2018,PHEV,2
+WA,College Place,2015,BEV,2
+WA,College Place,2021,BEV,4
+WA,College Place,2017,PHEV,8
+WA,College Place,2012,BEV,3
+WA,College Place,2011,BEV,1
+WA,College Place,2014,PHEV,1
+WA,College Place,2013,PHEV,2
+WA,College Place,2022,BEV,4
+WA,Rochester,2016,BEV,10
+WA,Rochester,2019,BEV,6
+WA,Rochester,2020,BEV,6
+WA,Rochester,2018,BEV,6
+WA,Rochester,2015,BEV,4
+WA,Rochester,2021,BEV,8
+WA,Rochester,2017,BEV,11
+WA,Rochester,2012,PHEV,3
+WA,Rochester,2014,PHEV,2
+WA,Rochester,2013,BEV,6
+WA,Rochester,2022,PHEV,15
+WA,Airway Heights,2016,PHEV,2
+WA,Airway Heights,2019,BEV,1
+WA,Airway Heights,2020,BEV,4
+WA,Airway Heights,2018,BEV,3
+WA,Airway Heights,2015,PHEV,1
+WA,Airway Heights,2021,BEV,5
+WA,Airway Heights,2013,BEV,1
+WA,Airway Heights,2022,BEV,2
+WA,Fox Island,2016,PHEV,5
+WA,Fox Island,2019,BEV,15
+WA,Fox Island,2020,PHEV,14
+WA,Fox Island,2018,PHEV,17
+WA,Fox Island,2015,BEV,6
+WA,Fox Island,2021,BEV,24
+WA,Fox Island,2017,PHEV,16
+WA,Fox Island,2012,PHEV,4
+WA,Fox Island,2014,BEV,4
+WA,Fox Island,2013,PHEV,5
+WA,Fox Island,2022,BEV,26
+WA,Aberdeen,2016,PHEV,7
+WA,Aberdeen,2019,BEV,13
+WA,Aberdeen,2020,BEV,8
+WA,Aberdeen,2018,BEV,13
+WA,Aberdeen,2015,PHEV,6
+WA,Aberdeen,2021,BEV,16
+WA,Aberdeen,2017,BEV,11
+WA,Aberdeen,2012,BEV,1
+WA,Aberdeen,2011,BEV,1
+WA,Aberdeen,2014,PHEV,5
+WA,Aberdeen,2013,BEV,6
+WA,Aberdeen,2022,BEV,12
+WA,Valleyford,2019,PHEV,4
+WA,Valleyford,2020,BEV,3
+WA,Valleyford,2018,PHEV,1
+WA,Valleyford,2015,BEV,1
+WA,Valleyford,2021,BEV,1
+WA,Valleyford,2014,PHEV,2
+WA,Valleyford,2013,PHEV,1
+WA,Valleyford,2022,BEV,2
+WA,Eatonville,2016,BEV,5
+WA,Eatonville,2019,BEV,10
+WA,Eatonville,2020,PHEV,8
+WA,Eatonville,2018,PHEV,7
+WA,Eatonville,2015,BEV,6
+WA,Eatonville,2021,PHEV,12
+WA,Eatonville,2017,PHEV,9
+WA,Eatonville,2014,PHEV,7
+WA,Eatonville,2013,BEV,1
+WA,Eatonville,2022,BEV,13
+WA,Mazama,2019,BEV,3
+WA,Mazama,2020,BEV,2
+WA,Mazama,2018,BEV,4
+WA,Mazama,2021,BEV,1
+WA,Mazama,2011,BEV,1
+WA,Mazama,2022,BEV,3
+WA,Lyle,2019,PHEV,1
+WA,Lyle,2020,BEV,1
+WA,Lyle,2018,PHEV,1
+WA,Lyle,2012,PHEV,1
+WA,Lyle,2011,BEV,1
+WA,Lyle,2014,PHEV,1
+WA,Lyle,2013,PHEV,1
+WA,Lyle,2022,BEV,5
+WA,Algona,2019,BEV,3
+WA,Algona,2020,PHEV,1
+WA,Algona,2018,BEV,4
+WA,Algona,2021,BEV,4
+WA,Algona,2017,BEV,3
+WA,Algona,2012,PHEV,1
+WA,Algona,2014,PHEV,2
+WA,Algona,2013,BEV,4
+WA,Algona,2022,BEV,3
+CA,Oceanside,2016,BEV,1
+CA,Oceanside,2020,PHEV,1
+CA,Oceanside,2018,BEV,1
+CA,Oceanside,2021,PHEV,1
+WA,Montesano,2016,PHEV,4
+WA,Montesano,2019,BEV,5
+WA,Montesano,2018,BEV,5
+WA,Montesano,2015,PHEV,2
+WA,Montesano,2021,PHEV,12
+WA,Montesano,2017,PHEV,9
+WA,Montesano,2012,BEV,3
+WA,Montesano,2014,PHEV,2
+WA,Montesano,2013,BEV,3
+WA,Montesano,2022,BEV,5
+WA,Prescott,2017,PHEV,1
+WA,Union,2016,PHEV,5
+WA,Union,2019,BEV,5
+WA,Union,2018,PHEV,1
+WA,Union,2015,PHEV,1
+WA,Union,2021,BEV,8
+WA,Union,2017,BEV,2
+WA,Union,2012,PHEV,1
+WA,Union,2013,PHEV,1
+WA,Union,2022,BEV,9
+WA,Seabeck,2016,PHEV,4
+WA,Seabeck,2019,BEV,3
+WA,Seabeck,2020,BEV,8
+WA,Seabeck,2018,BEV,4
+WA,Seabeck,2015,PHEV,3
+WA,Seabeck,2021,BEV,12
+WA,Seabeck,2017,BEV,6
+WA,Seabeck,2014,PHEV,3
+WA,Seabeck,2013,PHEV,3
+WA,Seabeck,2022,BEV,10
+WA,Woodway,2016,BEV,4
+WA,Woodway,2019,BEV,8
+WA,Woodway,2020,PHEV,7
+WA,Woodway,2018,PHEV,19
+WA,Woodway,2015,BEV,4
+WA,Woodway,2021,BEV,15
+WA,Woodway,2017,BEV,3
+WA,Woodway,2011,BEV,1
+WA,Woodway,2014,BEV,1
+WA,Woodway,2022,BEV,3
+WA,Woodway,2023,BEV,1
+WA,Prosser,2016,BEV,2
+WA,Prosser,2019,BEV,4
+WA,Prosser,2020,BEV,3
+WA,Prosser,2018,BEV,3
+WA,Prosser,2021,PHEV,6
+WA,Prosser,2017,PHEV,2
+WA,Prosser,2014,BEV,3
+WA,Prosser,2013,PHEV,2
+WA,Prosser,2022,BEV,9
+WA,Underwood,2019,PHEV,1
+WA,Underwood,2020,BEV,3
+WA,Underwood,2018,PHEV,2
+WA,Underwood,2015,BEV,2
+WA,Underwood,2021,BEV,5
+WA,Underwood,2017,BEV,1
+WA,Underwood,2013,PHEV,1
+WA,Underwood,2022,PHEV,5
+WA,Pacific,2016,BEV,2
+WA,Pacific,2019,BEV,7
+WA,Pacific,2020,PHEV,5
+WA,Pacific,2018,BEV,4
+WA,Pacific,2021,BEV,6
+WA,Pacific,2017,BEV,7
+WA,Pacific,2012,PHEV,2
+WA,Pacific,2014,PHEV,4
+WA,Pacific,2013,BEV,3
+WA,Pacific,2022,BEV,8
+WA,Onalaska,2016,PHEV,1
+WA,Onalaska,2019,BEV,2
+WA,Onalaska,2020,BEV,2
+WA,Onalaska,2018,PHEV,3
+WA,Onalaska,2021,BEV,4
+WA,Onalaska,2017,PHEV,4
+WA,Keyport,2019,BEV,1
+WA,Keyport,2020,BEV,1
+WA,Keyport,2018,BEV,1
+WA,Keyport,2021,BEV,1
+WA,Keyport,2017,PHEV,2
+WA,Keyport,2011,BEV,1
+WA,Keyport,2014,BEV,1
+WA,Ferndale,2016,BEV,19
+WA,Ferndale,2019,PHEV,22
+WA,Ferndale,2020,BEV,15
+WA,Ferndale,2018,BEV,28
+WA,Ferndale,2015,BEV,16
+WA,Ferndale,2021,BEV,37
+WA,Ferndale,2017,BEV,26
+WA,Ferndale,2012,BEV,6
+WA,Ferndale,2011,BEV,4
+WA,Ferndale,2014,BEV,8
+WA,Ferndale,2013,BEV,19
+WA,Ferndale,2022,BEV,39
+WA,Ferndale,2008,BEV,1
+DC,Washington,2020,BEV,1
+DC,Washington,2018,BEV,1
+DC,Washington,2015,PHEV,1
+DC,Washington,2017,PHEV,1
+DC,Washington,2022,BEV,1
+WA,Otis Orchards,2016,PHEV,1
+WA,Otis Orchards,2019,BEV,2
+WA,Otis Orchards,2020,BEV,1
+WA,Otis Orchards,2018,BEV,4
+WA,Otis Orchards,2015,PHEV,3
+WA,Otis Orchards,2021,PHEV,4
+WA,Otis Orchards,2017,BEV,3
+WA,Otis Orchards,2014,PHEV,1
+WA,Otis Orchards,2013,BEV,1
+WA,Otis Orchards,2022,BEV,7
+WA,Clarkston,2016,BEV,2
+WA,Clarkston,2019,BEV,1
+WA,Clarkston,2020,PHEV,4
+WA,Clarkston,2018,PHEV,5
+WA,Clarkston,2015,BEV,1
+WA,Clarkston,2021,BEV,7
+WA,Clarkston,2017,BEV,7
+WA,Clarkston,2012,PHEV,2
+WA,Clarkston,2014,BEV,4
+WA,Clarkston,2013,BEV,2
+WA,Clarkston,2022,BEV,4
+WA,Morton,2020,BEV,1
+WA,Morton,2018,BEV,3
+WA,Morton,2015,BEV,1
+WA,Morton,2021,BEV,1
+WA,Morton,2017,PHEV,1
+WA,Morton,2014,BEV,1
+WA,Morton,2022,BEV,2
+WA,Bingen,2021,BEV,2
+WA,Bingen,2017,BEV,1
+WA,Chelan,2016,BEV,5
+WA,Chelan,2019,BEV,7
+WA,Chelan,2020,BEV,10
+WA,Chelan,2018,BEV,15
+WA,Chelan,2015,BEV,4
+WA,Chelan,2021,BEV,24
+WA,Chelan,2017,BEV,16
+WA,Chelan,2014,BEV,5
+WA,Chelan,2013,BEV,3
+WA,Chelan,2022,BEV,16
+GA,Warner Robins,2018,BEV,1
+WA,Othello,2016,PHEV,2
+WA,Othello,2019,BEV,1
+WA,Othello,2020,BEV,4
+WA,Othello,2018,BEV,1
+WA,Othello,2015,BEV,1
+WA,Othello,2021,BEV,5
+WA,Othello,2017,PHEV,3
+WA,Othello,2012,PHEV,2
+WA,Othello,2011,BEV,1
+WA,Othello,2014,PHEV,4
+WA,Othello,2013,BEV,2
+WA,Othello,2022,BEV,8
+WA,Medical Lake,2016,BEV,3
+WA,Medical Lake,2019,BEV,3
+WA,Medical Lake,2020,BEV,3
+WA,Medical Lake,2018,PHEV,3
+WA,Medical Lake,2015,BEV,3
+WA,Medical Lake,2021,BEV,7
+WA,Medical Lake,2017,BEV,2
+WA,Medical Lake,2012,PHEV,2
+WA,Medical Lake,2011,BEV,1
+WA,Medical Lake,2014,PHEV,5
+WA,Medical Lake,2013,PHEV,2
+WA,Medical Lake,2022,BEV,5
+WA,Woodland,2016,BEV,3
+WA,Woodland,2019,BEV,12
+WA,Woodland,2020,BEV,11
+WA,Woodland,2018,PHEV,12
+WA,Woodland,2015,PHEV,6
+WA,Woodland,2021,BEV,36
+WA,Woodland,2017,PHEV,9
+WA,Woodland,2012,BEV,3
+WA,Woodland,2014,BEV,5
+WA,Woodland,2013,BEV,7
+WA,Woodland,2022,BEV,17
+WA,Stevenson,2016,BEV,1
+WA,Stevenson,2019,BEV,5
+WA,Stevenson,2020,PHEV,1
+WA,Stevenson,2018,BEV,9
+WA,Stevenson,2015,PHEV,3
+WA,Stevenson,2021,BEV,12
+WA,Stevenson,2017,PHEV,4
+WA,Stevenson,2014,PHEV,1
+WA,Stevenson,2013,PHEV,1
+WA,Stevenson,2022,BEV,5
+WA,Castle Rock,2016,BEV,3
+WA,Castle Rock,2019,BEV,2
+WA,Castle Rock,2020,BEV,5
+WA,Castle Rock,2018,PHEV,8
+WA,Castle Rock,2015,PHEV,1
+WA,Castle Rock,2021,BEV,12
+WA,Castle Rock,2017,PHEV,7
+WA,Castle Rock,2012,BEV,2
+WA,Castle Rock,2014,BEV,1
+WA,Castle Rock,2022,BEV,9
+WA,Colbert,2016,BEV,4
+WA,Colbert,2019,PHEV,1
+WA,Colbert,2020,BEV,10
+WA,Colbert,2018,PHEV,8
+WA,Colbert,2015,PHEV,6
+WA,Colbert,2021,PHEV,11
+WA,Colbert,2017,PHEV,3
+WA,Colbert,2012,BEV,1
+WA,Colbert,2014,PHEV,4
+WA,Colbert,2013,PHEV,3
+WA,Colbert,2022,BEV,14
+WA,Fairfield,2016,PHEV,1
+WA,Republic,2019,BEV,2
+WA,Republic,2020,BEV,2
+WA,Republic,2018,BEV,1
+WA,Republic,2015,BEV,1
+WA,Republic,2021,BEV,2
+WA,Republic,2014,PHEV,1
+WA,Republic,2022,BEV,1
+WA,Winthrop,2019,BEV,3
+WA,Winthrop,2020,BEV,7
+WA,Winthrop,2018,BEV,8
+WA,Winthrop,2021,BEV,6
+WA,Winthrop,2017,BEV,4
+WA,Winthrop,2013,PHEV,1
+WA,Winthrop,2022,BEV,7
+VA,Manassas,2016,PHEV,1
+WA,Mossyrock,2016,PHEV,2
+WA,Mossyrock,2020,BEV,2
+WA,Mossyrock,2018,BEV,3
+WA,Mossyrock,2015,PHEV,1
+WA,Mossyrock,2021,BEV,1
+WA,Mossyrock,2017,BEV,3
+WA,Mossyrock,2012,BEV,2
+WA,Mossyrock,2013,PHEV,2
+WA,Mossyrock,2022,PHEV,2
+WA,Silverlake,2016,BEV,3
+WA,Silverlake,2019,BEV,1
+WA,Silverlake,2020,BEV,3
+WA,Silverlake,2018,BEV,3
+WA,Silverlake,2021,BEV,4
+WA,Silverlake,2017,BEV,1
+WA,Silverlake,2013,BEV,1
+WA,Silverlake,2022,BEV,2
+WA,Davenport,2016,PHEV,1
+WA,Davenport,2018,PHEV,2
+WA,Davenport,2021,BEV,1
+WA,Davenport,2017,BEV,1
+WA,Suquamish,2016,PHEV,6
+WA,Suquamish,2019,BEV,7
+WA,Suquamish,2020,BEV,5
+WA,Suquamish,2018,BEV,7
+WA,Suquamish,2015,BEV,1
+WA,Suquamish,2021,BEV,5
+WA,Suquamish,2017,BEV,11
+WA,Suquamish,2012,PHEV,1
+WA,Suquamish,2014,PHEV,1
+WA,Suquamish,2013,BEV,2
+WA,Suquamish,2022,BEV,4
+WA,Greenbank,2016,BEV,2
+WA,Greenbank,2019,BEV,2
+WA,Greenbank,2020,BEV,6
+WA,Greenbank,2018,BEV,3
+WA,Greenbank,2015,BEV,7
+WA,Greenbank,2021,PHEV,8
+WA,Greenbank,2017,PHEV,1
+WA,Greenbank,2011,PHEV,1
+WA,Greenbank,2014,BEV,5
+WA,Greenbank,2013,PHEV,3
+WA,Greenbank,2022,BEV,6
+WA,Tahuya,2016,PHEV,1
+WA,Tahuya,2019,BEV,1
+WA,Tahuya,2020,BEV,1
+WA,Tahuya,2015,BEV,2
+WA,Tahuya,2021,BEV,6
+WA,Tahuya,2012,PHEV,1
+WA,Tahuya,2014,PHEV,1
+WA,Tahuya,2013,PHEV,1
+WA,Tahuya,2022,BEV,4
+MD,Andrews Air Force Base,2020,BEV,1
+WA,Hunts Point,2016,BEV,7
+WA,Hunts Point,2019,BEV,3
+WA,Hunts Point,2020,BEV,12
+WA,Hunts Point,2018,BEV,5
+WA,Hunts Point,2015,BEV,4
+WA,Hunts Point,2021,BEV,6
+WA,Hunts Point,2017,BEV,3
+WA,Hunts Point,2012,BEV,2
+WA,Hunts Point,2022,BEV,7
+WA,Kettle Falls,2019,PHEV,4
+WA,Kettle Falls,2020,BEV,3
+WA,Kettle Falls,2018,PHEV,1
+WA,Kettle Falls,2015,PHEV,2
+WA,Kettle Falls,2021,BEV,4
+WA,Kettle Falls,2017,PHEV,3
+WA,Kettle Falls,2013,BEV,1
+WA,Kettle Falls,2022,BEV,2
+WA,Springdale,2016,BEV,1
+WA,Springdale,2021,BEV,1
+WA,Springdale,2013,PHEV,1
+WA,Pullman,2016,PHEV,4
+WA,Pullman,2019,BEV,14
+WA,Pullman,2020,BEV,10
+WA,Pullman,2018,PHEV,12
+WA,Pullman,2015,PHEV,4
+WA,Pullman,2021,BEV,27
+WA,Pullman,2017,BEV,15
+WA,Pullman,2012,BEV,4
+WA,Pullman,2011,BEV,2
+WA,Pullman,2014,PHEV,7
+WA,Pullman,2013,PHEV,9
+WA,Pullman,2022,BEV,25
+WA,Pullman,2023,PHEV,1
+WA,Cashmere,2016,BEV,3
+WA,Cashmere,2019,BEV,10
+WA,Cashmere,2020,BEV,2
+WA,Cashmere,2018,BEV,5
+WA,Cashmere,2015,BEV,2
+WA,Cashmere,2021,BEV,9
+WA,Cashmere,2017,PHEV,3
+WA,Cashmere,2012,PHEV,1
+WA,Cashmere,2014,BEV,3
+WA,Cashmere,2013,PHEV,2
+WA,Cashmere,2022,PHEV,7
+WA,Trout Lake,2016,PHEV,1
+WA,Trout Lake,2019,BEV,5
+WA,Trout Lake,2020,BEV,2
+WA,Trout Lake,2018,BEV,2
+WA,Trout Lake,2021,BEV,2
+WA,Trout Lake,2017,PHEV,1
+WA,Trout Lake,2013,BEV,1
+WA,Trout Lake,2022,PHEV,1
+WA,Coulee City,2016,BEV,1
+WA,Coulee City,2018,BEV,2
+WA,Coulee City,2021,BEV,1
+WA,Coulee City,2013,PHEV,1
+WA,Coulee City,2022,BEV,2
+WA,Yacolt,2019,PHEV,1
+WA,Yacolt,2020,BEV,4
+WA,Yacolt,2018,BEV,3
+WA,Yacolt,2021,BEV,8
+WA,Yacolt,2017,BEV,6
+WA,Yacolt,2014,PHEV,3
+WA,Yacolt,2013,BEV,1
+WA,Yacolt,2022,BEV,5
+WA,Rice,2019,BEV,2
+WA,Rice,2021,PHEV,1
+WA,Westport,2019,BEV,1
+WA,Westport,2020,BEV,1
+WA,Westport,2018,PHEV,3
+WA,Westport,2015,BEV,1
+WA,Westport,2021,BEV,3
+WA,Westport,2017,BEV,3
+WA,Westport,2013,PHEV,1
+WA,Westport,2022,BEV,1
+WA,Amboy,2019,BEV,3
+WA,Amboy,2018,PHEV,1
+WA,Amboy,2021,BEV,3
+WA,Amboy,2017,BEV,5
+WA,Amboy,2012,BEV,1
+WA,Amboy,2022,BEV,2
+WA,Amboy,2023,BEV,1
+WA,Snoqualmie Pass,2019,PHEV,1
+WA,Snoqualmie Pass,2018,BEV,1
+WA,Snoqualmie Pass,2015,BEV,2
+WA,Snoqualmie Pass,2021,BEV,8
+WA,Snoqualmie Pass,2017,BEV,2
+WA,Snoqualmie Pass,2022,PHEV,1
+VA,Virginia Beach,2019,BEV,1
+VA,Virginia Beach,2021,BEV,1
+FL,Valparaiso,2015,PHEV,1
+CA,Menifee,2018,BEV,1
+CA,Menifee,2021,BEV,1
+CA,Menifee,2022,BEV,1
+WA,Easton,2016,PHEV,2
+WA,Easton,2019,BEV,2
+WA,Easton,2020,BEV,5
+WA,Easton,2021,BEV,3
+WA,Easton,2017,BEV,1
+WA,Easton,2012,BEV,1
+WA,Easton,2013,PHEV,2
+WA,Easton,2022,BEV,1
+WA,Granger,2016,PHEV,1
+WA,Granger,2020,BEV,1
+WA,Granger,2021,PHEV,1
+WA,Granger,2011,BEV,1
+WA,Granger,2022,BEV,2
+CA,Monterey,2020,BEV,1
+WA,Mattawa,2016,BEV,1
+WA,Mattawa,2019,BEV,1
+WA,Mattawa,2020,BEV,3
+WA,Mattawa,2018,BEV,3
+WA,Mattawa,2015,PHEV,1
+WA,Mattawa,2021,BEV,1
+WA,Mattawa,2017,BEV,2
+WA,Mattawa,2011,PHEV,1
+WA,Mattawa,2022,BEV,2
+WA,Ravensdale,2016,PHEV,4
+WA,Ravensdale,2019,BEV,9
+WA,Ravensdale,2020,BEV,10
+WA,Ravensdale,2018,BEV,3
+WA,Ravensdale,2015,PHEV,2
+WA,Ravensdale,2021,BEV,15
+WA,Ravensdale,2017,PHEV,7
+WA,Ravensdale,2012,PHEV,1
+WA,Ravensdale,2014,PHEV,5
+WA,Ravensdale,2022,BEV,9
+WA,Colville,2016,PHEV,1
+WA,Colville,2019,BEV,1
+WA,Colville,2020,PHEV,3
+WA,Colville,2018,PHEV,6
+WA,Colville,2015,BEV,2
+WA,Colville,2021,BEV,6
+WA,Colville,2017,PHEV,4
+WA,Colville,2012,BEV,1
+WA,Colville,2011,BEV,1
+WA,Colville,2014,BEV,1
+WA,Colville,2013,BEV,1
+WA,Colville,2022,PHEV,9
+WA,Nahcotta,2017,BEV,1
+WA,Nahcotta,2022,BEV,2
+WA,Elma,2016,PHEV,6
+WA,Elma,2019,BEV,2
+WA,Elma,2020,BEV,1
+WA,Elma,2018,BEV,6
+WA,Elma,2015,PHEV,4
+WA,Elma,2021,BEV,10
+WA,Elma,2017,BEV,5
+WA,Elma,2014,PHEV,4
+WA,Elma,2013,BEV,4
+WA,Elma,2022,BEV,2
+WA,Elma,2023,BEV,1
+MS,Biloxi,2021,BEV,1
+WA,Deer Park,2016,PHEV,5
+WA,Deer Park,2019,PHEV,3
+WA,Deer Park,2020,BEV,5
+WA,Deer Park,2018,BEV,9
+WA,Deer Park,2015,BEV,4
+WA,Deer Park,2021,PHEV,8
+WA,Deer Park,2017,PHEV,7
+WA,Deer Park,2013,PHEV,2
+WA,Deer Park,2022,BEV,7
+WA,Veradale,2016,BEV,2
+WA,Veradale,2019,BEV,3
+WA,Veradale,2020,BEV,1
+WA,Veradale,2018,PHEV,2
+WA,Veradale,2015,BEV,3
+WA,Veradale,2021,PHEV,10
+WA,Veradale,2017,BEV,2
+WA,Veradale,2012,BEV,1
+WA,Veradale,2022,BEV,9
+WA,Menlo,2015,PHEV,1
+WA,Menlo,2021,PHEV,1
+WA,Menlo,2022,PHEV,1
+WA,Shaw Island,2016,PHEV,1
+WA,Shaw Island,2019,PHEV,1
+WA,Shaw Island,2020,PHEV,2
+WA,Shaw Island,2018,BEV,1
+WA,Shaw Island,2021,BEV,3
+WA,Shaw Island,2017,PHEV,2
+WA,Shaw Island,2014,BEV,1
+WA,Shaw Island,2022,BEV,1
+WA,Addy,2021,BEV,1
+WA,Addy,2014,PHEV,1
+WA,Randle,2020,PHEV,1
+WA,Randle,2015,PHEV,1
+CA,Gardena,2016,PHEV,1
+WA,Toledo,2016,BEV,1
+WA,Toledo,2019,BEV,7
+WA,Toledo,2020,BEV,7
+WA,Toledo,2018,PHEV,4
+WA,Toledo,2021,BEV,3
+WA,Toledo,2017,BEV,2
+WA,Toledo,2022,BEV,2
+WA,Roslyn,2016,BEV,2
+WA,Roslyn,2018,BEV,1
+WA,Roslyn,2021,BEV,4
+WA,Roslyn,2017,BEV,1
+WA,Roslyn,2022,BEV,1
+WA,Toppenish,2016,PHEV,1
+WA,Toppenish,2020,BEV,1
+WA,Toppenish,2017,BEV,2
+WA,Toppenish,2012,BEV,1
+WA,Toppenish,2013,BEV,2
+WA,Toppenish,2022,BEV,1
+WA,Centralia,2016,BEV,8
+WA,Centralia,2019,BEV,9
+WA,Centralia,2020,BEV,12
+WA,Centralia,2018,PHEV,14
+WA,Centralia,2015,BEV,6
+WA,Centralia,2021,BEV,36
+WA,Centralia,2017,PHEV,16
+WA,Centralia,2012,PHEV,5
+WA,Centralia,2011,BEV,1
+WA,Centralia,2014,BEV,3
+WA,Centralia,2013,BEV,10
+WA,Centralia,2022,PHEV,28
+WA,Longbranch,2019,BEV,1
+WA,Longbranch,2020,BEV,1
+WA,Longbranch,2018,BEV,2
+WA,Longbranch,2021,BEV,3
+WA,Longbranch,2017,PHEV,2
+WA,Longbranch,2013,PHEV,1
+WA,Longbranch,2022,BEV,3
+WA,Ocean Park,2016,BEV,2
+WA,Ocean Park,2019,PHEV,3
+WA,Ocean Park,2020,BEV,4
+WA,Ocean Park,2018,PHEV,8
+WA,Ocean Park,2015,BEV,3
+WA,Ocean Park,2021,PHEV,4
+WA,Ocean Park,2012,PHEV,1
+WA,Ocean Park,2013,BEV,2
+WA,Ocean Park,2022,PHEV,2
+WA,Snowden,2020,BEV,1
+WA,Snowden,2021,PHEV,4
+WA,Snowden,2014,PHEV,1
+WA,Snowden,2022,PHEV,2
+WA,Fife,2016,BEV,2
+WA,Fife,2019,BEV,4
+WA,Fife,2020,BEV,6
+WA,Fife,2018,BEV,16
+WA,Fife,2015,BEV,4
+WA,Fife,2021,BEV,8
+WA,Fife,2017,PHEV,7
+WA,Fife,2012,BEV,5
+WA,Fife,2014,PHEV,2
+WA,Fife,2013,BEV,4
+WA,Fife,2022,BEV,15
+WA,Toutle,2015,PHEV,1
+WA,Toutle,2013,PHEV,1
+WA,Toutle,2022,BEV,1
+MD,Bethesda,2017,BEV,1
+WA,Rainier,2019,PHEV,9
+WA,Rainier,2020,BEV,5
+WA,Rainier,2018,PHEV,7
+WA,Rainier,2015,BEV,1
+WA,Rainier,2021,BEV,3
+WA,Rainier,2017,BEV,4
+WA,Rainier,2012,BEV,1
+WA,Rainier,2014,BEV,2
+WA,Rainier,2013,BEV,2
+WA,Rainier,2022,BEV,6
+WA,Gifford,2014,BEV,1
+WA,Benton City,2016,BEV,7
+WA,Benton City,2019,BEV,1
+WA,Benton City,2020,BEV,2
+WA,Benton City,2018,PHEV,4
+WA,Benton City,2015,PHEV,3
+WA,Benton City,2021,BEV,4
+WA,Benton City,2017,PHEV,10
+WA,Benton City,2012,PHEV,2
+WA,Benton City,2013,PHEV,5
+WA,Benton City,2022,PHEV,4
+WA,Olga,2016,BEV,2
+WA,Olga,2019,BEV,3
+WA,Olga,2020,BEV,3
+WA,Olga,2018,PHEV,5
+WA,Olga,2015,BEV,3
+WA,Olga,2021,PHEV,4
+WA,Olga,2017,BEV,2
+WA,Olga,2012,BEV,2
+WA,Olga,2011,BEV,1
+WA,Olga,2014,BEV,5
+WA,Olga,2013,BEV,6
+WA,Olga,2022,PHEV,1
+CA,Santa Rosa,2018,PHEV,1
+WA,Quilcene,2016,PHEV,3
+WA,Quilcene,2019,BEV,3
+WA,Quilcene,2020,BEV,3
+WA,Quilcene,2018,PHEV,4
+WA,Quilcene,2015,BEV,1
+WA,Quilcene,2021,BEV,9
+WA,Quilcene,2017,BEV,3
+WA,Quilcene,2012,PHEV,2
+WA,Quilcene,2014,PHEV,2
+WA,Quilcene,2013,PHEV,1
+WA,Quilcene,2022,BEV,5
+WA,Mcchord Afb,2021,PHEV,1
+WA,Mcchord Afb,2017,PHEV,1
+WA,Omak,2020,BEV,3
+WA,Omak,2018,PHEV,1
+WA,Omak,2015,BEV,1
+WA,Omak,2017,BEV,1
+WA,Omak,2012,PHEV,1
+WA,Omak,2014,BEV,1
+WA,Omak,2013,PHEV,1
+WA,Omak,2022,BEV,3
+WA,Hoodsport,2016,BEV,1
+WA,Hoodsport,2019,BEV,5
+WA,Hoodsport,2020,BEV,5
+WA,Hoodsport,2018,BEV,3
+WA,Hoodsport,2021,PHEV,2
+WA,Hoodsport,2017,BEV,5
+WA,Hoodsport,2012,BEV,1
+WA,Hoodsport,2014,PHEV,2
+WA,Hoodsport,2013,BEV,2
+WA,Hoodsport,2022,BEV,2
+WA,Beaux Arts,2016,PHEV,2
+WA,Beaux Arts,2019,BEV,1
+WA,Beaux Arts,2020,BEV,1
+WA,Beaux Arts,2018,BEV,4
+WA,Beaux Arts,2015,BEV,2
+WA,Beaux Arts,2021,BEV,8
+WA,Beaux Arts,2017,BEV,4
+WA,Beaux Arts,2014,BEV,1
+WA,Beaux Arts,2013,BEV,2
+WA,Beaux Arts,2022,BEV,6
+WA,Malott,2011,BEV,1
+WA,Warden,2017,BEV,1
+WA,Pacific Beach,2016,BEV,2
+WA,Pacific Beach,2019,BEV,2
+WA,Pacific Beach,2020,BEV,2
+WA,Pacific Beach,2018,PHEV,4
+WA,Pacific Beach,2015,BEV,1
+WA,Pacific Beach,2021,PHEV,5
+WA,Pacific Beach,2017,PHEV,1
+WA,Cosmopolis,2016,PHEV,2
+WA,Cosmopolis,2018,BEV,1
+WA,Cosmopolis,2015,BEV,1
+WA,Cosmopolis,2021,BEV,1
+WA,Cosmopolis,2022,BEV,1
+WA,Naches,2016,BEV,1
+WA,Naches,2019,PHEV,1
+WA,Naches,2020,PHEV,1
+WA,Naches,2018,BEV,4
+WA,Naches,2021,BEV,4
+WA,Naches,2012,PHEV,2
+WA,Naches,2022,PHEV,3
+WA,Valley,2019,BEV,1
+WA,Valley,2018,PHEV,2
+WA,Valley,2012,PHEV,1
+WA,Valley,2022,BEV,2
+WA,Moxee,2019,PHEV,2
+WA,Moxee,2020,BEV,2
+WA,Moxee,2018,BEV,2
+WA,Moxee,2015,BEV,3
+WA,Moxee,2021,BEV,3
+WA,Moxee,2017,BEV,2
+WA,Moxee,2012,PHEV,1
+WA,Moxee,2011,BEV,1
+WA,Moxee,2014,PHEV,1
+WA,Moxee,2022,PHEV,3
+CA,Cupertino,2018,BEV,1
+CA,Alameda,2016,BEV,1
+WA,Forks,2016,PHEV,1
+WA,Forks,2019,BEV,3
+WA,Forks,2020,BEV,2
+WA,Forks,2015,BEV,1
+WA,Forks,2021,BEV,1
+WA,Forks,2017,PHEV,1
+WA,Forks,2012,PHEV,1
+WA,Forks,2014,PHEV,1
+WA,Forks,2013,PHEV,1
+WA,Forks,2022,BEV,3
+WA,Anderson Island,2016,BEV,1
+WA,Anderson Island,2019,BEV,5
+WA,Anderson Island,2020,BEV,2
+WA,Anderson Island,2018,PHEV,2
+WA,Anderson Island,2015,BEV,2
+WA,Anderson Island,2021,BEV,2
+WA,Anderson Island,2017,BEV,4
+WA,Anderson Island,2014,BEV,4
+WA,Anderson Island,2013,PHEV,2
+WA,Anderson Island,2022,PHEV,1
+WA,Ashford,2020,BEV,1
+WA,Ashford,2021,BEV,2
+WA,Ashford,2017,BEV,2
+WA,Ashford,2014,PHEV,1
+WA,Peshastin,2019,BEV,2
+WA,Peshastin,2018,BEV,3
+WA,Peshastin,2021,BEV,1
+WA,Peshastin,2017,PHEV,2
+WA,Peshastin,2013,PHEV,3
+WA,Peshastin,2022,BEV,2
+WA,Husum,2019,BEV,1
+WA,Husum,2020,BEV,2
+WA,Husum,2018,BEV,1
+WA,Husum,2015,BEV,1
+WA,Husum,2021,PHEV,3
+WA,Husum,2017,BEV,1
+WA,Husum,2014,PHEV,1
+WA,Husum,2013,PHEV,1
+WA,Husum,2022,BEV,1
+CA,Mountain View,2015,BEV,1
+CA,Mountain View,2021,PHEV,1
+NC,Fort Bragg,2018,PHEV,1
+WA,Zillah,2016,PHEV,1
+WA,Zillah,2019,BEV,3
+WA,Zillah,2020,BEV,2
+WA,Zillah,2018,PHEV,3
+WA,Zillah,2015,PHEV,1
+WA,Zillah,2021,BEV,3
+WA,Zillah,2017,PHEV,2
+WA,Zillah,2012,BEV,1
+WA,Zillah,2011,BEV,1
+WA,Zillah,2013,BEV,1
+WA,Zillah,2022,BEV,4
+WA,Vader,2021,PHEV,1
+WA,Vader,2017,PHEV,2
+WA,Vader,2022,BEV,2
+WA,Kapowsin,2013,BEV,1
+WY,Sheridan,2022,BEV,1
+WA,Grapeview,2016,BEV,2
+WA,Grapeview,2019,PHEV,3
+WA,Grapeview,2020,BEV,1
+WA,Grapeview,2018,BEV,7
+WA,Grapeview,2015,BEV,4
+WA,Grapeview,2021,BEV,7
+WA,Grapeview,2017,PHEV,5
+WA,Grapeview,2014,PHEV,4
+WA,Grapeview,2013,BEV,3
+WA,Grapeview,2022,BEV,10
+WA,Cathlamet,2016,PHEV,2
+WA,Cathlamet,2019,BEV,4
+WA,Cathlamet,2020,BEV,3
+WA,Cathlamet,2018,PHEV,4
+WA,Cathlamet,2015,PHEV,2
+WA,Cathlamet,2021,BEV,8
+WA,Cathlamet,2017,BEV,1
+WA,Cathlamet,2013,PHEV,2
+WA,Cathlamet,2022,BEV,5
+WA,Naselle,2019,PHEV,3
+WA,Naselle,2020,PHEV,4
+WA,Naselle,2015,PHEV,1
+WA,Naselle,2021,PHEV,4
+WA,Naselle,2012,PHEV,1
+WA,Naselle,2022,PHEV,1
+WA,Raymond,2019,BEV,1
+WA,Raymond,2020,BEV,2
+WA,Raymond,2018,BEV,1
+WA,Raymond,2021,BEV,5
+WA,Raymond,2017,PHEV,2
+WA,Raymond,2012,PHEV,1
+WA,Raymond,2014,PHEV,2
+WA,Raymond,2013,PHEV,2
+WA,Raymond,2022,PHEV,3
+VA,Suffolk,2018,BEV,1
+MD,Annapolis,2021,BEV,1
+MD,Hughesville,2012,PHEV,1
+WA,Surfside,2016,BEV,1
+WA,Surfside,2019,BEV,7
+WA,Surfside,2018,PHEV,2
+WA,Surfside,2021,PHEV,3
+WA,Surfside,2017,BEV,3
+WA,Surfside,2013,PHEV,1
+WA,Surfside,2022,BEV,2
+WA,Chattaroy,2019,BEV,1
+WA,Chattaroy,2020,BEV,5
+WA,Chattaroy,2018,BEV,2
+WA,Chattaroy,2015,BEV,3
+WA,Chattaroy,2021,PHEV,4
+WA,Chattaroy,2017,BEV,1
+WA,Chattaroy,2012,BEV,1
+WA,Chattaroy,2014,PHEV,1
+WA,Chattaroy,2022,BEV,1
+WA,Twisp,2016,BEV,2
+WA,Twisp,2019,BEV,4
+WA,Twisp,2020,PHEV,6
+WA,Twisp,2018,BEV,1
+WA,Twisp,2021,BEV,7
+WA,Twisp,2017,PHEV,4
+WA,Twisp,2012,PHEV,1
+WA,Twisp,2014,PHEV,1
+WA,Twisp,2022,BEV,7
+WA,Mccleary,2016,PHEV,2
+WA,Mccleary,2019,BEV,3
+WA,Mccleary,2020,PHEV,1
+WA,Mccleary,2018,PHEV,3
+WA,Mccleary,2015,BEV,1
+WA,Mccleary,2021,BEV,4
+WA,Mccleary,2017,BEV,1
+WA,Mccleary,2012,PHEV,1
+WA,Mccleary,2014,PHEV,1
+WA,Mccleary,2013,PHEV,1
+WA,Mccleary,2022,BEV,6
+WA,Port Hadlock,2016,BEV,2
+WA,Port Hadlock,2019,BEV,2
+WA,Port Hadlock,2020,BEV,1
+WA,Port Hadlock,2018,BEV,5
+WA,Port Hadlock,2015,PHEV,3
+WA,Port Hadlock,2021,BEV,4
+WA,Port Hadlock,2017,BEV,5
+WA,Port Hadlock,2012,BEV,1
+WA,Port Hadlock,2011,BEV,1
+WA,Port Hadlock,2014,PHEV,2
+WA,Port Hadlock,2013,BEV,2
+WA,Port Hadlock,2022,BEV,7
+WA,Thorp,2019,BEV,1
+WA,Thorp,2018,BEV,1
+WA,Thorp,2021,BEV,1
+WA,Thorp,2022,BEV,1
+WA,Oroville,2018,PHEV,4
+WA,Oroville,2015,BEV,1
+WA,Oroville,2021,PHEV,1
+WA,Oroville,2017,PHEV,4
+WA,Oroville,2022,BEV,2
+WA,Nooksack,2016,BEV,1
+WA,Nooksack,2018,BEV,1
+WA,Nooksack,2012,PHEV,1
+WA,Deming,2016,BEV,1
+WA,Deming,2019,BEV,3
+WA,Deming,2020,BEV,1
+WA,Deming,2018,BEV,1
+WA,Deming,2021,BEV,3
+WA,Deming,2017,BEV,3
+WA,Deming,2012,BEV,1
+WA,Deming,2014,BEV,2
+WA,Deming,2013,BEV,3
+CO,Colorado Springs,2020,BEV,1
+CO,Colorado Springs,2021,PHEV,1
+CO,Colorado Springs,2014,BEV,1
+CO,Colorado Springs,2022,BEV,1
+NC,Fayetteville,2021,BEV,1
+NC,Fayetteville,2017,PHEV,1
+MD,Fort George G Meade,2021,BEV,1
+WI,South Range,2021,BEV,1
+VA,Norfolk,2014,PHEV,1
+VA,Norfolk,2013,BEV,1
+CO,Englewood,2022,PHEV,1
+WA,Preston,2016,BEV,3
+WA,Preston,2019,BEV,2
+WA,Preston,2020,BEV,1
+WA,Preston,2018,BEV,3
+WA,Preston,2015,BEV,3
+WA,Preston,2021,BEV,4
+WA,Preston,2017,BEV,3
+WA,Preston,2014,PHEV,1
+WA,Preston,2013,BEV,2
+WA,Preston,2022,BEV,6
+WA,Pomeroy,2016,PHEV,1
+WA,Pomeroy,2018,BEV,1
+WA,Pomeroy,2021,PHEV,1
+WA,Pomeroy,2014,PHEV,1
+CA,Fpo,2015,PHEV,1
+CA,Fpo,2021,PHEV,1
+CA,Fpo,2017,PHEV,1
+WA,Parkland,2016,BEV,6
+WA,Parkland,2019,BEV,4
+WA,Parkland,2020,BEV,3
+WA,Parkland,2018,PHEV,2
+WA,Parkland,2015,PHEV,8
+WA,Parkland,2021,BEV,10
+WA,Parkland,2017,BEV,5
+WA,Parkland,2012,BEV,4
+WA,Parkland,2014,PHEV,4
+WA,Parkland,2013,PHEV,2
+WA,Parkland,2022,PHEV,10
+TX,San Antonio,2016,BEV,1
+TX,San Antonio,2020,BEV,1
+TX,San Antonio,2017,PHEV,3
+TX,San Antonio,2022,BEV,2
+WA,Bickleton,2021,BEV,1
+WA,Kittitas,2021,BEV,1
+WA,Kittitas,2017,BEV,1
+WA,Kittitas,2022,BEV,2
+WA,Long Beach,2016,BEV,1
+WA,Long Beach,2019,BEV,2
+WA,Long Beach,2020,PHEV,3
+WA,Long Beach,2018,BEV,5
+WA,Long Beach,2021,BEV,6
+WA,Long Beach,2017,BEV,8
+WA,Long Beach,2012,PHEV,1
+CA,Long Beach,2013,PHEV,1
+WA,Long Beach,2022,PHEV,3
+WA,Packwood,2016,PHEV,1
+WA,Packwood,2019,PHEV,1
+WA,Packwood,2020,PHEV,4
+WA,Packwood,2015,BEV,1
+WA,Packwood,2021,BEV,1
+WA,Roosevelt,2021,BEV,1
+WA,Roosevelt,2022,PHEV,1
+CA,Santa Clara,2021,BEV,1
+CA,Santa Clara,2022,BEV,1
+WA,Carson,2016,PHEV,1
+WA,Carson,2019,BEV,1
+WA,Carson,2020,BEV,1
+WA,Carson,2018,PHEV,3
+WA,Carson,2021,BEV,4
+WA,Carson,2017,BEV,3
+WA,Carson,2012,PHEV,1
+WA,Carson,2014,PHEV,1
+WA,Carson,2022,BEV,2
+WA,Rosalia,2021,PHEV,2
+WA,Rosalia,2022,BEV,2
+WA,Vaughn,2016,BEV,3
+WA,Vaughn,2019,BEV,2
+WA,Vaughn,2020,BEV,1
+WA,Vaughn,2018,BEV,7
+WA,Vaughn,2021,PHEV,1
+WA,Vaughn,2017,PHEV,1
+WA,Vaughn,2012,PHEV,1
+WA,Vaughn,2013,PHEV,2
+WA,Brewster,2019,BEV,2
+WA,Brewster,2018,BEV,1
+WA,Brewster,2021,PHEV,1
+WA,Brewster,2022,BEV,3
+TX,Dickinson,2019,PHEV,1
+WA,Garfield,2018,PHEV,1
+WA,Garfield,2021,BEV,1
+WA,Garfield,2022,PHEV,1
+CA,Chula Vista,2016,PHEV,1
+CA,Chula Vista,2020,BEV,1
+CA,Chula Vista,2021,BEV,2
+MD,California,2021,BEV,1
+CA,San Diego,2019,BEV,1
+CA,San Diego,2020,BEV,1
+CA,San Diego,2018,BEV,2
+CA,San Diego,2015,PHEV,1
+CA,San Diego,2021,PHEV,2
+CA,San Diego,2017,BEV,3
+CA,San Diego,2012,PHEV,1
+CA,San Diego,2013,BEV,1
+WA,Indianola,2016,BEV,3
+WA,Indianola,2019,BEV,4
+WA,Indianola,2020,PHEV,7
+WA,Indianola,2018,BEV,5
+WA,Indianola,2015,PHEV,4
+WA,Indianola,2021,BEV,6
+WA,Indianola,2017,BEV,3
+WA,Indianola,2012,PHEV,1
+WA,Indianola,2014,PHEV,1
+WA,Indianola,2022,BEV,4
+IL,Mascoutah,2016,BEV,1
+WA,Sekiu,2019,BEV,1
+WA,Sekiu,2021,BEV,1
+WA,Sekiu,2017,BEV,1
+WA,Evans,2018,BEV,2
+WA,Evans,2015,PHEV,1
+WA,Evans,2012,PHEV,1
+WA,Evans,2022,BEV,2
+WA,Carlton,2019,PHEV,1
+WA,Carlton,2021,BEV,2
+WA,Carlton,2012,PHEV,1
+WA,Carlton,2013,PHEV,1
+WA,Carlton,2022,BEV,1
+WA,Chewelah,2021,BEV,3
+WA,Chewelah,2017,BEV,3
+WA,Chewelah,2012,PHEV,2
+WA,Chewelah,2014,PHEV,1
+WA,Chewelah,2013,PHEV,3
+WA,Chewelah,2022,BEV,2
+NC,Mccutcheon Field,2020,PHEV,1
+WA,Loon Lake,2019,BEV,1
+WA,Loon Lake,2020,BEV,2
+WA,Loon Lake,2018,PHEV,1
+WA,Loon Lake,2021,BEV,1
+WA,Loon Lake,2017,PHEV,2
+WA,Loon Lake,2022,BEV,2
+WA,Baring,2018,BEV,1
+WA,Baring,2017,PHEV,1
+WA,Baring,2014,BEV,1
+GA,Conyers,2021,BEV,1
+WA,Chimacum,2016,PHEV,2
+WA,Chimacum,2019,BEV,2
+WA,Chimacum,2020,BEV,1
+WA,Chimacum,2018,BEV,1
+WA,Chimacum,2015,BEV,1
+WA,Chimacum,2021,BEV,5
+WA,Chimacum,2017,BEV,3
+WA,Chimacum,2011,BEV,1
+WA,Chimacum,2013,BEV,1
+WA,Chimacum,2022,BEV,3
+WA,Joint Base Lewis Mcchord,2016,PHEV,5
+WA,Joint Base Lewis Mcchord,2019,PHEV,3
+WA,Joint Base Lewis Mcchord,2020,BEV,2
+WA,Joint Base Lewis Mcchord,2018,BEV,4
+WA,Joint Base Lewis Mcchord,2015,PHEV,1
+WA,Joint Base Lewis Mcchord,2021,BEV,6
+WA,Joint Base Lewis Mcchord,2017,PHEV,8
+WA,Joint Base Lewis Mcchord,2012,BEV,2
+WA,Joint Base Lewis Mcchord,2011,BEV,1
+WA,Joint Base Lewis Mcchord,2014,PHEV,2
+WA,Joint Base Lewis Mcchord,2013,PHEV,2
+WA,Joint Base Lewis Mcchord,2022,BEV,10
+WA,Palisades,2020,BEV,1
+WA,Palisades,2022,BEV,1
+WA,Touchet,2016,BEV,1
+WA,Touchet,2021,BEV,2
+WA,Touchet,2013,PHEV,1
+TN,Fort Campbell,2021,BEV,1
+WA,Maple Falls,2016,PHEV,2
+WA,Maple Falls,2019,PHEV,1
+WA,Maple Falls,2020,BEV,2
+WA,Maple Falls,2018,BEV,3
+WA,Maple Falls,2015,PHEV,3
+WA,Maple Falls,2021,PHEV,1
+WA,Maple Falls,2017,BEV,2
+WA,Maple Falls,2012,BEV,1
+WA,Maple Falls,2014,PHEV,1
+WA,Maple Falls,2013,PHEV,1
+WA,Maple Falls,2022,BEV,1
+WA,Moclips,2019,BEV,1
+WA,Moclips,2015,PHEV,1
+WA,Moclips,2021,BEV,1
+VA,Vienna,2022,PHEV,1
+WA,Oakville,2019,BEV,1
+WA,Oakville,2020,BEV,2
+WA,Oakville,2018,PHEV,2
+WA,Oakville,2015,PHEV,1
+WA,Oakville,2021,PHEV,1
+WA,Oakville,2017,BEV,2
+WA,Oakville,2012,PHEV,1
+WA,Oakville,2011,BEV,1
+WA,Oakville,2013,PHEV,1
+WA,Oakville,2022,PHEV,1
+WA,Rosburg,2022,BEV,1
+RI,Middletown,2021,BEV,1
+RI,Middletown,2014,BEV,1
+TX,El Paso,2017,BEV,1
+WA,Bz Corner,2019,PHEV,1
+WA,Bz Corner,2021,BEV,2
+WA,Bz Corner,2017,BEV,1
+WA,Bz Corner,2022,BEV,1
+IL,Gurnee,2020,BEV,1
+TN,Atoka,2020,BEV,1
+WA,Seaview,2019,PHEV,1
+WA,Seaview,2020,BEV,1
+WA,Seaview,2018,BEV,2
+WA,Seaview,2021,PHEV,2
+WA,Seaview,2017,BEV,1
+WA,Seaview,2011,BEV,1
+NC,Southern Pines,2018,PHEV,1
+MD,Lexington Park,2018,BEV,1
+WA,Mesa,2018,BEV,2
+WA,Mesa,2021,BEV,1
+WA,Mesa,2017,PHEV,1
+WA,Union Gap,2017,BEV,3
+WA,Union Gap,2014,PHEV,1
+IL,Belleville,2020,BEV,1
+WA,Skamokawa,2020,BEV,2
+WA,Skamokawa,2018,PHEV,1
+CA,Benicia,2022,BEV,1
+SC,Charleston Afb,2021,BEV,1
+VA,Chesapeake,2016,PHEV,1
+VA,Chesapeake,2017,PHEV,1
+VA,Chesapeake,2014,PHEV,1
+WA,Hartline,2022,BEV,1
+NY,Felts Mills,2015,PHEV,1
+DE,Claymont,2017,BEV,1
+WA,Tokeland,2016,PHEV,1
+WA,Tokeland,2020,BEV,1
+WA,Tokeland,2018,BEV,1
+WA,Tokeland,2013,BEV,1
+WA,Tokeland,2022,PHEV,2
+WA,Neah Bay,2015,PHEV,1
+WA,Neah Bay,2021,BEV,3
+WA,Neah Bay,2013,PHEV,1
+WA,Deer Meadows,2020,BEV,1
+WA,Deer Meadows,2014,PHEV,1
+TX,Harker Heights,2016,PHEV,1
+WA,Burbank,2019,PHEV,1
+WA,Burbank,2018,BEV,3
+WA,Burbank,2017,BEV,5
+WA,Burbank,2022,BEV,1
+WA,Glacier,2016,BEV,1
+WA,Glacier,2019,BEV,1
+WA,Glacier,2020,BEV,2
+WA,Glacier,2018,PHEV,1
+WA,Glacier,2022,BEV,1
+MO,Saint Louis,2020,BEV,1
+WA,Spangle,2016,BEV,1
+WA,Spangle,2019,PHEV,2
+WA,Spangle,2020,PHEV,1
+WA,Spangle,2015,PHEV,1
+WA,Spangle,2021,BEV,1
+WA,Spangle,2017,PHEV,1
+WA,Spangle,2022,BEV,2
+TX,Little Elm,2021,BEV,1
+WA,Acme,2016,PHEV,2
+WA,Acme,2019,BEV,2
+WA,Acme,2015,BEV,1
+WA,Curtis,2020,BEV,1
+WA,Curtis,2018,BEV,1
+WA,Curtis,2015,PHEV,1
+WA,Curtis,2021,PHEV,1
+WA,Curtis,2022,BEV,1
+TX,Mcallen,2014,PHEV,1
+WA,Grayland,2019,BEV,1
+WA,Grayland,2018,PHEV,1
+WA,Grayland,2021,BEV,1
+WA,Grayland,2017,BEV,2
+WA,Grayland,2012,PHEV,1
+WA,Okanogan,2020,BEV,1
+WA,Okanogan,2018,BEV,1
+WA,Okanogan,2021,BEV,1
+WA,Okanogan,2017,BEV,2
+WA,Wilkeson,2019,BEV,1
+WA,Wilkeson,2021,BEV,1
+WA,Wilkeson,2017,PHEV,1
+WA,Wilkeson,2013,PHEV,1
+WA,Lopez Is,2015,BEV,1
+WA,Lopez Is,2021,BEV,1
+WA,Lopez Is,2017,PHEV,1
+CA,Lemoore,2015,BEV,1
+VA,Bumpass,2019,PHEV,1
+UT,Salt Lake City,2019,PHEV,1
+UT,Salt Lake City,2015,PHEV,1
+UT,Salt Lake City,2021,BEV,1
+SD,Rapid City,2021,BEV,1
+WA,Frances,2019,PHEV,1
+WA,Frances,2020,BEV,1
+WA,Frances,2017,PHEV,1
+WA,Tonasket,2019,BEV,2
+WA,Tonasket,2020,PHEV,1
+WA,Tonasket,2018,BEV,1
+WA,Tonasket,2021,PHEV,2
+WA,Tonasket,2012,PHEV,1
+WA,Tonasket,2014,PHEV,3
+WA,Tonasket,2013,BEV,1
+WA,Tonasket,2022,BEV,1
+WA,Goldendale,2016,PHEV,1
+WA,Goldendale,2019,BEV,3
+WA,Goldendale,2020,BEV,1
+WA,Goldendale,2018,BEV,4
+WA,Goldendale,2015,BEV,3
+WA,Goldendale,2021,BEV,4
+WA,Goldendale,2012,PHEV,2
+WA,Goldendale,2013,PHEV,1
+WA,Goldendale,2022,BEV,5
+WA,Elk,2019,BEV,4
+WA,Elk,2020,BEV,1
+WA,Elk,2018,BEV,1
+WA,Elk,2021,BEV,3
+WA,Elk,2017,BEV,3
+WA,Elk,2012,PHEV,1
+WA,Elk,2013,BEV,1
+WA,Elk,2022,BEV,4
+MD,Germantown,2020,PHEV,1
+NV,Henderson,2016,PHEV,1
+WA,Littlerock,2021,PHEV,1
+WA,Marlin,2022,BEV,2
+HI,Kapolei,2015,PHEV,1
+NH,North Conway,2015,PHEV,1
+WA,Connell,2020,BEV,2
+WA,Connell,2021,BEV,2
+WA,Connell,2017,BEV,1
+WA,Connell,2022,BEV,1
+WA,Reardan,2016,PHEV,2
+WA,Reardan,2018,PHEV,1
+WA,Reardan,2017,PHEV,1
+KS,Fort Leavenworth,2021,BEV,1
+WA,Sumas,2016,PHEV,2
+WA,Sumas,2015,PHEV,1
+WA,Sumas,2021,BEV,4
+WA,Sumas,2017,PHEV,1
+WA,Sumas,2013,BEV,1
+WA,Sumas,2022,BEV,1
+WA,Clallam Bay,2016,BEV,1
+VA,Aldie,2019,BEV,1
+VA,Aldie,2022,BEV,1
+CA,Ventura,2021,BEV,1
+CA,Ventura,2022,BEV,1
+AZ,Maricopa,2021,BEV,1
+WA,Vantage,2022,BEV,1
+WA,Eltopia,2021,PHEV,1
+WA,Eltopia,2022,BEV,2
+WA,Artondale,2018,BEV,1
+AZ,Tempe,2018,BEV,1
+AZ,Tempe,2021,PHEV,1
+CA,Lancaster,2021,PHEV,1
+CA,Lancaster,2014,PHEV,1
+CA,San Juan Capistrano,2021,BEV,1
+WA,Oysterville,2020,BEV,1
+WA,Oysterville,2021,PHEV,1
+WA,Oysterville,2017,PHEV,1
+WA,Oysterville,2022,BEV,1
+OK,Altus,2016,PHEV,1
+WA,Malo,2021,BEV,1
+WA,South Cle Elum,2020,PHEV,1
+WA,South Cle Elum,2018,PHEV,1
+WA,Colfax,2018,PHEV,8
+WA,Colfax,2015,BEV,1
+WA,Colfax,2017,PHEV,1
+WA,Colfax,2022,BEV,2
+WA,Orcas Is,2020,BEV,1
+WA,Orcas Is,2012,PHEV,2
+WA,Orcas Is,2014,PHEV,1
+WA,Orcas Is,2022,BEV,2
+WA,Darrington,2020,BEV,1
+WA,Darrington,2018,PHEV,2
+WA,Darrington,2021,BEV,2
+WA,Darrington,2017,BEV,1
+WA,Darrington,2022,BEV,2
+WA,Grand Coulee,2016,PHEV,1
+WA,Grand Coulee,2018,PHEV,1
+WA,Grand Coulee,2014,PHEV,2
+WA,Grand Coulee,2022,BEV,1
+WA,Lyman,2017,BEV,1
+WA,Tekoa,2017,PHEV,1
+WA,Tekoa,2014,PHEV,1
+WA,Tekoa,2022,BEV,1
+NE,Omaha,2020,BEV,1
+NE,Omaha,2018,PHEV,1
+NE,Omaha,2021,PHEV,2
+WA,Holden Village,2012,PHEV,1
+WA,South Bend,2016,PHEV,1
+WA,South Bend,2019,BEV,1
+CA,Irvine,2019,PHEV,1
+CA,Irvine,2021,BEV,1
+WA,Klickitat,2019,PHEV,1
+WA,South Prairie,2019,PHEV,1
+WA,South Prairie,2021,PHEV,1
+WA,South Prairie,2022,BEV,1
+WA,Seven Bays,2014,PHEV,1
+WA,Seven Bays,2022,BEV,1
+WA,Cougar,2018,PHEV,1
+WA,Cougar,2021,BEV,1
+WA,Cougar,2022,BEV,1
+WA,Port Gamble,2015,PHEV,1
+CA,Vacaville,2021,BEV,1
+AR,Little Rock,2022,BEV,1
+WA,Fairchild Air Force Base,2016,PHEV,1
+WA,Fairchild Air Force Base,2019,BEV,1
+WA,Fairchild Air Force Base,2018,BEV,2
+WA,Fairchild Air Force Base,2021,BEV,3
+WA,Fairchild Air Force Base,2017,PHEV,1
+WA,Fairchild Air Force Base,2012,BEV,1
+WA,Fairchild Air Force Base,2013,BEV,1
+TX,Wichita Falls,2018,BEV,1
+TX,Wichita Falls,2017,BEV,1
+WA,Bangor Base,2021,BEV,1
+CA,Coronado,2020,BEV,1
+CT,Waterford,2021,PHEV,1
+MA,Bedford,2018,PHEV,1
+OH,Cincinnati,2022,BEV,1
+TX,North Richland Hills,2021,BEV,1
+PA,Mechanicsburg,2022,BEV,1
+WA,Waterville,2020,BEV,1
+WA,Waterville,2018,BEV,1
+WA,Waterville,2017,BEV,1
+WA,Waterville,2022,BEV,1
+WA,Chinook,2018,BEV,2
+CA,Aliso Viejo,2018,BEV,1
+WA,Tieton,2016,PHEV,2
+WA,Tieton,2019,BEV,2
+WA,Tieton,2021,BEV,1
+WA,Tieton,2022,BEV,1
+WI,Cedarburg,2016,PHEV,1
+VA,Stafford,2016,PHEV,1
+VA,Stafford,2021,BEV,1
+ID,Worley,2022,BEV,1
+CA,Sacramento,2020,BEV,1
+WY,Cheyenne,2020,BEV,1
+WA,Skykomish,2021,BEV,1
+WA,Skykomish,2017,BEV,1
+WA,Skykomish,2022,BEV,1
+WA,Curlew,2018,BEV,1
+WA,Curlew,2021,BEV,1
+WA,Curlew,2014,PHEV,1
+WA,Curlew,2022,BEV,2
+WA,Satsop,2020,BEV,1
+WA,Satsop,2021,BEV,1
+WA,Rock Island,2019,BEV,3
+WA,Rock Island,2018,BEV,1
+WA,Rock Island,2017,PHEV,1
+WA,Rock Island,2022,BEV,1
+WA,Carbonado,2020,BEV,2
+WA,Carbonado,2021,BEV,2
+WA,Brinnon,2019,BEV,2
+WA,Brinnon,2020,BEV,1
+WA,Brinnon,2015,BEV,1
+WA,Brinnon,2021,BEV,1
+WA,Brinnon,2017,PHEV,4
+WA,Brinnon,2012,PHEV,1
+WA,Brinnon,2013,BEV,1
+WA,Brinnon,2022,BEV,1
+WA,Tulalip,2020,BEV,1
+WA,Fruitland,2016,PHEV,1
+WA,North Bonneville,2019,BEV,3
+WA,North Bonneville,2018,BEV,2
+WA,North Bonneville,2021,BEV,1
+WA,North Bonneville,2017,BEV,2
+VA,Portsmouth,2021,BEV,1
+VA,Portsmouth,2014,PHEV,1
+OR,Lincoln City,2021,PHEV,1
+WA,Carrolls,2021,PHEV,1
+VA,Herndon,2021,BEV,1
+CA,Lompoc,2017,BEV,1
+WA,Rockford,2018,BEV,1
+WA,Rockford,2021,BEV,1
+WA,Rockford,2013,BEV,1
+WA,Rockford,2022,BEV,1
+KS,Junction City,2021,BEV,1
+OR,Salem,2022,PHEV,1
+WA,Riverside,2019,BEV,1
+WA,Riverside,2018,PHEV,2
+WA,Riverside,2022,BEV,1
+DE,Magnolia,2016,PHEV,1
+NV,Las Vegas,2020,BEV,1
+NV,Las Vegas,2021,BEV,2
+NV,Las Vegas,2017,BEV,1
+NV,Las Vegas,2014,PHEV,2
+CA,Napa,2017,PHEV,1
+VA,Danville,2019,BEV,1
+WA,Danville,2018,BEV,1
+TX,Houston,2022,BEV,1
+ME,Bangor,2018,PHEV,1
+HI,Honolulu,2019,BEV,1
+WA,North Cove,2022,BEV,1
+FL,Tavares,2019,BEV,1
+TN,Clarksville,2021,BEV,1
+CA,Berkeley,2019,BEV,1
+CA,Berkeley,2021,BEV,1
+WA,Dallesport,2019,BEV,2
+WA,Dallesport,2021,PHEV,1
+WA,Dallesport,2012,PHEV,1
+WA,Dallesport,2014,PHEV,1
+CA,Lakeside,2019,BEV,1
+MD,Keedysville,2021,BEV,1
+WA,Lind,2015,BEV,1
+MD,Upper Marlboro,2016,BEV,1
+CA,Pittsburg,2017,PHEV,1
+WA,Ariel,2016,PHEV,2
+WA,Ariel,2019,BEV,1
+WA,Ariel,2020,BEV,1
+WA,Ariel,2018,PHEV,1
+WA,Ariel,2021,BEV,1
+WA,Ariel,2017,BEV,1
+WA,Ariel,2014,BEV,1
+WA,Ariel,2022,BEV,2
+PA,Norristown,2018,BEV,1
+OR,West Linn,2019,BEV,1
+PA,Wexford,2016,BEV,1
+WA,Mica,2019,BEV,1
+WA,Mica,2014,BEV,2
+WA,Mica,2022,BEV,1
+WA,Glenoma,2020,PHEV,1
+WA,Glenoma,2022,BEV,1
+WA,Lebam,2022,BEV,3
+WA,Mansfield,2019,BEV,1
+IL,Highland Park,2018,BEV,1
+IL,Highland Park,2021,BEV,1
+WA,Coulee Dam,2019,BEV,1
+WA,Coulee Dam,2020,PHEV,1
+WA,Coulee Dam,2021,BEV,1
+MO,Rayville,2017,PHEV,1
+WA,Copalis Crossing,2016,BEV,1
+WA,Copalis Crossing,2020,BEV,1
+WA,Wilbur,2016,PHEV,1
+WA,Wilbur,2021,PHEV,1
+WA,Wilbur,2012,PHEV,1
+WA,Wilbur,2022,BEV,1
+WA,Grandview,2016,PHEV,1
+WA,Grandview,2020,BEV,4
+WA,Grandview,2018,BEV,6
+WA,Grandview,2021,PHEV,4
+WA,Grandview,2017,PHEV,2
+WA,Grandview,2014,PHEV,1
+WA,Grandview,2013,PHEV,1
+WA,Grandview,2022,BEV,1
+WA,St John,2016,PHEV,1
+MA,Hanscom Afb,2022,BEV,1
+WA,Maryhill,2021,PHEV,1
+MD,Gambrills,2018,PHEV,1
+MD,Gambrills,2021,PHEV,1
+MD,Gambrills,2022,BEV,1
+WA,Latah,2017,BEV,1
+OR,Portland,2018,PHEV,1
+WA,Pateros,2018,PHEV,2
+WA,Pateros,2012,PHEV,1
+WA,Pateros,2022,BEV,2
+WA,Lilliwaup,2018,BEV,2
+WA,Lilliwaup,2015,BEV,1
+WA,Lilliwaup,2021,BEV,1
+CO,Timnath,2018,BEV,1
+MD,Silver Spring,2022,BEV,2
+MD,Odenton,2022,PHEV,1
+CA,Carmel By The Sea,2018,PHEV,1
+WA,Mineral,2019,BEV,1
+WA,Mineral,2020,PHEV,2
+WA,Mineral,2021,BEV,1
+WA,Mineral,2022,BEV,1
+WA,Ford,2019,BEV,1
+WA,Ford,2014,PHEV,1
+AZ,Phoenix,2015,BEV,1
+AZ,Phoenix,2013,BEV,1
+WA,Humptulips,2019,BEV,1
+WA,Edwall,2016,BEV,1
+WA,Edwall,2017,BEV,2
+WA,Matlock,2017,BEV,1
+WA,Matlock,2022,BEV,1
+VA,Woodbridge,2021,BEV,1
+WA,Ryderwood,2016,PHEV,1
+NM,Roswell,2018,BEV,1
+NC,Charlotte,2019,BEV,1
+VA,Burke,2017,PHEV,1
+WA,Methow,2017,BEV,1
+WA,Methow,2012,PHEV,1
+NV,North Las Vegas,2019,BEV,1
+KY,Goshen,2018,PHEV,1
+CO,Trinidad,2021,BEV,1
+WA,Clearlake,2019,BEV,1
+WA,Clearlake,2014,PHEV,1
+NY,Jamaica,2021,BEV,1
+WA,Salkum,2021,BEV,1
+WA,Salkum,2022,BEV,2
+WA,Lamont,2021,BEV,1
+WA,Lamont,2017,PHEV,1
+GA,Adairsville,2017,PHEV,1
+WA,Lincoln,2021,BEV,1
+WA,Asotin,2020,BEV,2
+WA,Asotin,2017,BEV,1
+WA,Asotin,2014,BEV,3
+WA,Asotin,2022,PHEV,2
+CA,Wildomar,2018,BEV,1
+WA,Cinebar,2014,PHEV,1
+WA,Cinebar,2022,BEV,1
+CA,Yermo,2015,BEV,1
+WA,Amanda Park,2016,PHEV,1
+WA,Amanda Park,2021,BEV,1
+WA,Glenwood,2017,PHEV,1
+WA,Glenwood,2014,PHEV,1
+WA,White Swan,2016,PHEV,1
+WA,White Swan,2021,PHEV,1
+CA,Roseville,2019,BEV,1
+WA,Ethel,2020,PHEV,1
+WA,Ethel,2018,PHEV,1
+WA,Ethel,2021,BEV,1
+WA,Ethel,2017,BEV,1
+WA,Ethel,2022,BEV,1
+WA,Harrington,2013,BEV,1
+WA,Harrington,2022,BEV,1
+GA,Decatur,2015,BEV,1
+WA,Wellpinit,2016,PHEV,1
+CA,Apple Valley,2015,PHEV,1
+LA,Belle Chasse,2015,PHEV,1
+WA,Wapato,2018,PHEV,1
+WA,Wapato,2021,BEV,2
+WA,Wapato,2017,BEV,1
+WA,Centerville,2013,BEV,1
+MD,Edgewater,2017,BEV,1
+WA,Smith Creek,2020,BEV,1
+WA,Smith Creek,2021,PHEV,1
+WA,Electric City,2016,PHEV,1
+WA,Electric City,2019,BEV,1
+WA,Electric City,2012,PHEV,1
+TX,Schertz,2018,BEV,1
+WA,Inchelium,2018,BEV,1
+WA,Inchelium,2021,BEV,1
+WA,Mabton,2021,BEV,1
+WA,Copalis Beach,2018,BEV,1
+MD,Westminster,2015,PHEV,1
+WA,Bucoda,2019,PHEV,1
+VA,Fairfax,2020,BEV,1
+GA,Richmond Hill,2017,BEV,1
+WA,Ione,2019,BEV,1
+TX,Corpus Christi,2017,BEV,1
+WA,Southworth,2013,PHEV,2
+GA,Grovetown,2017,BEV,1
+WA,Hunters,2020,BEV,1
+WA,Waldron,2013,BEV,1
+WA,Waldron,2000,BEV,1
+PA,Philadelphia,2020,BEV,1
+CA,Palo Alto,2021,BEV,1
+MD,Arnold,2021,BEV,1
+AK,Fairbanks,2016,PHEV,1
+WA,Cusick,2019,PHEV,1
+WA,Cusick,2021,PHEV,1
+WA,Cusick,2017,PHEV,1
+CA,Hawthorne,2013,BEV,1
+CA,San Rafael,2022,PHEV,1
+CA,Alhambra,2016,BEV,1
+WA,Wahkiacus,2017,PHEV,1
+AK,Juneau,2017,PHEV,1
+NC,Raeford,2022,BEV,1
+WA,Taholah,2017,PHEV,1
+WA,Taholah,2013,PHEV,1
+MD,Chesapeake Beach,2018,PHEV,2
+ND,Williston,2018,PHEV,1
+UT,West Valley City,2018,BEV,1
+WA,Pe Ell,2018,BEV,1
+AZ,Chandler,2021,BEV,1
+AK,Chugiak,2018,BEV,1
+CA,Indian Wells,2021,BEV,1
+TX,Purmela,2021,BEV,1
+WA,McCleary,2021,PHEV,1
+WA,Clayton,2015,PHEV,1
+CA,Camarillo,2020,PHEV,1
+AL,Montgomery,2022,PHEV,1
+HI,Ewa Beach,2017,BEV,1
+NY,Greenfield Center,2016,BEV,1
+FL,West Palm Beach,2017,BEV,1
+MD,Potomac,2021,PHEV,1
+CT,Old Lyme,2015,PHEV,1
+FL,Sarasota,2019,BEV,1
+CA,San Jacinto,2019,BEV,1
+VA,Fredericksburg,2019,BEV,1
+WA,Cowiche,2016,PHEV,1
+MA,Chelmsford,2022,BEV,1
+FL,Key West,2022,PHEV,1
+KS,Lansing,2017,PHEV,1
+IL,Skokie,2021,BEV,1
+SC,Spartanburg,2017,PHEV,1
+CA,Moraga,2021,PHEV,1
+WA,Neilton,2017,BEV,1
+NJ,Joint Base Mdl,2020,PHEV,1
+WA,Grays River,2020,BEV,1
+NC,Goldsboro,2021,BEV,1
+WA,Rockport,2022,PHEV,1
+NJ,Secaucus,2021,BEV,1
+WA,Walla Walla Co,2018,PHEV,1
+MO,Platte City,2020,BEV,1
+CO,Longmont,2021,BEV,1
+FL,Jacksonville,2013,PHEV,1
+WA,Quinault,2022,BEV,1
+NJ,Haddonfield,2019,PHEV,1
+WA,Beaver,2022,PHEV,1
+OR,Elkton,2017,BEV,1
+CT,Groton,2022,BEV,1
+NJ,Medford,2021,PHEV,1
